@@ -1,0 +1,317 @@
+Unnamed: 0,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,Seats,New_Price,Price,Fuel_Diesel,Fuel_Petrol,Transmission_Automatic,Transmission_Manual,Current_Age,Age
+7,Toyota Innova Crysta 2.8 GX AT 8S,Mumbai,2016,36000,First,11.36,2755.0,171.5,8.0,21 Lakh,17.5,True,False,True,False,8,8
+15,Mitsubishi Pajero Sport 4X4,Delhi,2014,110000,First,13.5,2477.0,175.56,7.0,32.01 Lakh,15.0,True,False,False,True,10,10
+20,BMW 3 Series 320d,Kochi,2014,32982,First,22.69,1995.0,190.0,5.0,47.87 Lakh,18.55,True,False,True,False,10,10
+47,Toyota Innova Crysta 2.7 GX MT,Bangalore,2012,70704,First,11.25,2694.0,163.7,7.0,18.64 Lakh,10.95,False,True,False,True,12,12
+60,Toyota Innova Crysta 2.4 GX MT 8S,Mumbai,2017,22000,First,13.68,2393.0,147.8,8.0,19.34 Lakh,16.5,True,False,False,True,7,7
+67,Mercedes-Benz C-Class Progressive C 220d,Coimbatore,2019,15369,First,0.0,1950.0,194.0,5.0,49.14 Lakh,35.67,True,False,True,False,5,5
+69,Hyundai Creta 1.4 E Plus Diesel,Mumbai,2018,13000,First,22.1,1396.0,88.7,5.0,11.81 Lakh,10.5,True,False,False,True,6,6
+110,Toyota Innova Crysta 2.8 ZX AT,Mumbai,2017,30000,First,11.36,2755.0,171.5,7.0,27 Lakh,19.25,True,False,True,False,7,7
+113,BMW 3 Series 320d Luxury Line,Mumbai,2015,56087,First,22.69,1995.0,190.0,5.0,54.43 Lakh,20.75,True,False,True,False,9,9
+122,Hyundai Verna CRDi 1.6 SX Option,Kolkata,2018,10250,First,22.0,1582.0,126.2,5.0,14.44 Lakh,10.95,True,False,False,True,6,6
+134,Mercedes-Benz SLC 43 AMG,Kolkata,2017,13372,First,19.0,2996.0,362.07,2.0,95.04 Lakh,54.0,False,True,True,False,7,7
+135,Hyundai Verna VTVT 1.6 AT SX Plus,Kochi,2019,12645,First,17.0,1591.0,121.3,5.0,13.49 Lakh,11.5,False,True,True,False,5,5
+148,Audi RS5 Coupe,Mumbai,2013,23000,First,11.05,2894.0,444.0,4.0,1.28 Cr,37.0,False,True,True,False,11,11
+149,BMW 3 Series Luxury Line,Mumbai,2014,48000,First,21.76,1995.0,190.0,5.0,60.88 Lakh,26.5,True,False,True,False,10,10
+182,BMW 5 Series 520d Luxury Line,Hyderabad,2014,51000,First,22.48,1995.0,190.0,5.0,69.47 Lakh,33.5,True,False,True,False,10,10
+219,Skoda Superb Style 1.8 TSI AT,Hyderabad,2017,26000,First,14.67,1798.0,177.46,5.0,33.58 Lakh,26.0,False,True,True,False,7,7
+228,Mini Cooper Convertible S,Kochi,2017,26327,First,16.82,1998.0,189.08,4.0,44.28 Lakh,35.67,False,True,True,False,7,7
+235,Toyota Innova Crysta 2.8 GX AT,Kochi,2019,14165,First,11.36,2755.0,171.5,7.0,20.74 Lakh,19.64,True,False,True,False,5,5
+256,Toyota Innova Crysta 2.4 ZX MT,Pune,2017,43000,First,13.68,2393.0,147.8,7.0,25.52 Lakh,18.65,True,False,False,True,7,7
+264,Mercedes-Benz GLE 350d,Coimbatore,2017,29819,First,11.57,2987.0,254.79,5.0,95.13 Lakh,61.29,True,False,True,False,7,7
+298,Toyota Innova Crysta 2.4 ZX MT,Chennai,2016,48000,First,13.68,2393.0,147.8,7.0,25.4 Lakh,20.25,True,False,False,True,8,8
+303,Honda City i-VTEC CVT ZX,Mumbai,2017,15000,First,18.0,1497.0,117.3,5.0,16.67 Lakh,12.69,False,True,True,False,7,7
+310,Mercedes-Benz GLE 250d,Hyderabad,2017,29000,First,17.9,2143.0,201.15,5.0,79.43 Lakh,57.0,True,False,True,False,7,7
+327,Audi Q7 45 TDI Quattro Technology,Coimbatore,2017,97430,First,14.75,2967.0,245.0,7.0,1.04 Cr,62.67,True,False,True,False,7,7
+348,BMW 3 Series Luxury Line,Kochi,2015,30717,Second,21.76,1995.0,190.0,5.0,58.67 Lakh,25.99,True,False,True,False,9,9
+355,Jaguar XF 2.0 Diesel Portfolio,Hyderabad,2017,21000,First,19.33,1999.0,177.0,5.0,72.64 Lakh,52.0,True,False,True,False,7,7
+357,Skoda Superb L&K 1.8 TSI AT,Kochi,2019,13747,First,14.67,1798.0,177.46,5.0,36.15 Lakh,27.3,False,True,True,False,5,5
+365,Mini Clubman Cooper S,Pune,2017,8350,First,13.8,1998.0,192.0,5.0,44.59 Lakh,35.0,False,True,False,True,7,7
+389,Jaguar XE Portfolio,Mumbai,2017,9000,First,13.5,1999.0,246.74,5.0,53.72 Lakh,34.5,False,True,True,False,7,7
+401,Mitsubishi Pajero Sport 4X2 AT DualTone BlackTop,Hyderabad,2018,12000,First,13.5,2477.0,175.56,7.0,33.91 Lakh,28.0,True,False,True,False,6,6
+413,BMW 3 Series Luxury Line,Mumbai,2015,41000,First,21.76,1995.0,190.0,5.0,60.88 Lakh,25.5,True,False,True,False,9,9
+418,Mercedes-Benz GLC 43 AMG Coupe,Coimbatore,2018,22397,First,11.5,2996.0,367.0,5.0,95.38 Lakh,70.99,False,True,True,False,6,6
+423,Audi A6 35 TFSI Matrix,Mumbai,2016,47000,First,15.26,1798.0,187.74,5.0,60.59 Lakh,24.5,False,True,True,False,8,8
+427,Mini Cooper Convertible S,Mumbai,2014,11900,First,16.82,1998.0,189.08,4.0,44.28 Lakh,28.5,False,True,True,False,10,10
+457,Audi Q3 35 TDI Quattro Premium Plus,Coimbatore,2016,86642,First,15.17,1968.0,181.0,5.0,43.65 Lakh,20.37,True,False,True,False,8,8
+458,BMW 3 Series Luxury Line,Bangalore,2016,19235,First,21.76,1995.0,190.0,5.0,62.07 Lakh,36.5,True,False,True,False,8,8
+473,Mercedes-Benz E-Class E 220 d,Kochi,2018,26405,First,12.6,1950.0,191.34,5.0,86.97 Lakh,51.43,False,True,True,False,6,6
+489,Mercedes-Benz GLS 350d 4MATIC,Pune,2017,129000,First,11.0,2987.0,258.0,7.0,1 Cr,56.0,True,False,True,False,7,7
+544,Mercedes-Benz New C-Class Progressive C 200,Kochi,2019,13190,First,0.0,1950.0,181.43,5.0,49.49 Lakh,38.99,False,True,True,False,5,5
+549,BMW X1 sDrive 20d xLine,Coimbatore,2017,31645,First,20.68,1995.0,190.0,5.0,48.18 Lakh,29.4,True,False,True,False,7,7
+558,Skoda Rapid 1.5 TDI Style,Hyderabad,2017,31000,First,21.13,1498.0,108.4,5.0,15.38 Lakh,10.5,True,False,False,True,7,7
+562,Toyota Innova Crysta 2.8 GX AT,Ahmedabad,2016,100200,First,11.36,2755.0,171.5,7.0,19.21 Lakh,17.0,True,False,True,False,8,8
+568,Jeep Compass 2.0 Limited,Jaipur,2018,29000,First,17.1,1956.0,170.0,5.0,22.95 Lakh,19.0,True,False,False,True,6,6
+599,Toyota Innova Crysta 2.8 ZX AT,Coimbatore,2019,40674,First,11.36,2755.0,171.5,7.0,28.05 Lakh,24.82,True,False,True,False,5,5
+603,Mercedes-Benz GLC 220d 4MATIC Style,Mumbai,2018,10003,First,17.9,2143.0,170.0,5.0,59.77 Lakh,48.5,True,False,True,False,6,6
+615,Toyota Innova Crysta 2.4 GX MT 8S,Hyderabad,2017,52000,First,13.68,2393.0,147.8,8.0,19.43 Lakh,17.5,True,False,False,True,7,7
+632,Mini Cooper 5 DOOR D,Mumbai,2016,11000,First,20.7,1496.0,113.98,5.0,42.12 Lakh,29.5,True,False,True,False,8,8
+635,Tata Safari Storme VX Varicor 400,Jaipur,2017,37000,First,14.1,2179.0,154.0,7.0,16.95 Lakh,11.25,True,False,False,True,7,7
+636,Honda BR-V i-DTEC VX MT,Kochi,2017,32249,First,21.9,1498.0,98.6,7.0,15.45 Lakh,10.79,True,False,False,True,7,7
+668,Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,18108,First,24.3,1248.0,88.5,5.0,12.56 Lakh,11.31,True,False,False,True,7,7
+697,Toyota Innova Crysta 2.4 ZX MT,Bangalore,2017,64798,First,13.68,2393.0,147.8,7.0,26.45 Lakh,18.75,True,False,False,True,7,7
+746,Mini Cooper 5 DOOR D,Hyderabad,2014,60000,Second,20.7,1496.0,113.98,5.0,42.48 Lakh,23.5,True,False,True,False,10,10
+750,Honda City i-VTEC CVT VX,Bangalore,2015,18955,First,18.0,1497.0,117.3,5.0,16.04 Lakh,10.65,False,True,True,False,9,9
+784,Hyundai Creta 1.6 SX,Ahmedabad,2016,21000,First,15.8,1591.0,121.3,5.0,13.74 Lakh,10.9,False,True,False,True,8,8
+796,Mahindra XUV500 W9 AT,Coimbatore,2019,19654,First,14.0,2179.0,155.0,7.0,21.33 Lakh,17.63,True,False,True,False,5,5
+802,Mercedes-Benz GLE 250d,Mumbai,2016,21000,First,17.9,2143.0,201.15,5.0,78.76 Lakh,56.0,True,False,True,False,8,8
+850,Toyota Innova Crysta 2.4 ZX MT,Pune,2017,43200,First,13.68,2393.0,147.8,7.0,25.52 Lakh,18.6,True,False,False,True,7,7
+875,Toyota Innova Crysta 2.8 ZX AT,Kochi,2018,41736,First,11.36,2755.0,171.5,7.0,27 Lakh,19.92,True,False,True,False,6,6
+940,Jeep Compass 2.0 Limited 4X4,Mumbai,2017,52000,First,16.3,1956.0,170.0,5.0,24.26 Lakh,20.0,True,False,False,True,7,7
+941,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,Kochi,2018,31427,First,15.68,1999.0,177.0,5.0,75.12 Lakh,59.72,True,False,True,False,6,6
+946,Mitsubishi Pajero Sport 4X4,Bangalore,2013,132000,First,13.5,2477.0,175.56,7.0,34.6 Lakh,12.49,True,False,False,True,11,11
+952,Toyota Innova Crysta 2.4 ZX MT,Coimbatore,2018,92056,First,13.68,2393.0,147.8,7.0,26.45 Lakh,18.39,True,False,False,True,6,6
+962,Mercedes-Benz C-Class Progressive C 220d,Mumbai,2018,8682,First,0.0,1950.0,194.0,5.0,52.26 Lakh,39.5,True,False,True,False,6,6
+984,BMW 5 Series 520d Luxury Line,Mumbai,2012,61240,First,22.48,1995.0,190.0,5.0,70.43 Lakh,17.5,True,False,True,False,12,12
+1010,Ford Ecosport Signature Edition Diesel,Coimbatore,2019,23154,First,23.0,1498.0,98.96,5.0,12.12 Lakh,11.65,True,False,False,True,5,5
+1012,Toyota Innova Crysta 2.4 GX MT,Chennai,2017,67489,First,13.68,2393.0,147.8,7.0,19.37 Lakh,16.5,True,False,False,True,7,7
+1030,Toyota Fortuner 2.8 4WD MT,Kochi,2013,105072,First,14.24,2755.0,174.5,7.0,36.69 Lakh,13.28,True,False,False,True,11,11
+1039,Jeep Compass 1.4 Limited Option,Mumbai,2017,4000,First,16.0,1368.0,160.0,5.0,23.68 Lakh,17.75,False,True,True,False,7,7
+1044,Audi A4 35 TDI Technology,Hyderabad,2015,45000,First,18.25,1968.0,187.74,5.0,55.61 Lakh,25.0,True,False,True,False,9,9
+1050,Ford EcoSport 1.5 Petrol Titanium Plus AT,Coimbatore,2018,18385,First,14.8,1497.0,121.36,5.0,14.1 Lakh,12.41,False,True,True,False,6,6
+1065,Toyota Innova Crysta 2.8 ZX AT,Bangalore,2016,108000,First,11.36,2755.0,171.5,7.0,28.05 Lakh,20.5,True,False,True,False,8,8
+1077,Maruti Vitara Brezza ZDi Plus,Kochi,2019,34688,First,24.3,1248.0,88.5,5.0,11.2 Lakh,10.49,True,False,False,True,5,5
+1103,Tata Hexa XT,Delhi,2017,55000,First,17.6,2179.0,153.86,7.0,19.86 Lakh,12.0,True,False,False,True,7,7
+1113,Mercedes-Benz E-Class E 220 d,Kochi,2018,20446,First,12.6,1950.0,191.34,5.0,86.97 Lakh,51.35,False,True,True,False,6,6
+1117,Mini Cooper 5 DOOR D,Ahmedabad,2014,34000,First,20.7,1496.0,113.98,5.0,42.12 Lakh,22.0,True,False,True,False,10,10
+1140,Toyota Innova Crysta 2.8 ZX AT,Hyderabad,2016,69000,First,11.36,2755.0,171.5,7.0,26.56 Lakh,19.75,True,False,True,False,8,8
+1141,Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,30090,First,19.6,1461.0,108.45,5.0,15.05 Lakh,11.44,True,False,True,False,7,7
+1147,Maruti Vitara Brezza ZDi,Coimbatore,2018,64456,First,24.3,1248.0,88.5,5.0,11 Lakh,10.46,True,False,False,True,6,6
+1192,Volvo S60 D4 Momentum,Hyderabad,2015,51000,First,27.03,1969.0,190.0,5.0,45.67 Lakh,25.0,True,False,True,False,9,9
+1195,BMW 3 Series 320d Luxury Line,Chennai,2012,65000,First,22.69,1995.0,190.0,5.0,54.7 Lakh,14.0,True,False,True,False,12,12
+1197,Toyota Innova Crysta 2.4 VX MT,Hyderabad,2017,24393,First,13.68,2393.0,147.8,7.0,22.87 Lakh,20.4,True,False,False,True,7,7
+1200,Mitsubishi Pajero Sport 4X4,Mumbai,2013,59000,First,13.5,2477.0,175.56,7.0,33.09 Lakh,12.75,True,False,False,True,11,11
+1226,Toyota Corolla Altis 1.8 VL CVT,Delhi,2017,21000,First,14.28,1798.0,138.03,5.0,23.25 Lakh,18.0,False,True,True,False,7,7
+1242,Jaguar XE 2.0L Diesel Prestige,Delhi,2018,1000,First,13.6,1999.0,177.0,5.0,52.77 Lakh,40.0,True,False,True,False,6,6
+1270,Honda City i-VTEC CVT VX,Kochi,2018,22974,First,18.0,1497.0,117.3,5.0,15.55 Lakh,11.97,False,True,True,False,6,6
+1272,Toyota Fortuner 2.8 2WD MT,Ahmedabad,2015,65012,First,14.24,2755.0,174.5,7.0,32.45 Lakh,18.9,True,False,False,True,9,9
+1303,BMW 5 Series 520d Luxury Line,Coimbatore,2012,44450,First,22.48,1995.0,190.0,5.0,71.82 Lakh,24.68,True,False,True,False,12,12
+1305,BMW X1 M Sport sDrive 20d,Mumbai,2016,31000,First,17.05,1995.0,190.0,5.0,50.97 Lakh,29.5,True,False,True,False,8,8
+1320,BMW 3 Series 320d Luxury Line,Kochi,2013,37613,First,22.69,1995.0,190.0,5.0,52.46 Lakh,13.95,True,False,True,False,11,11
+1336,Audi Q7 45 TDI Quattro Technology,Mumbai,2016,20002,First,14.75,2967.0,245.0,7.0,1.04 Cr,67.0,True,False,True,False,8,8
+1381,Renault Duster 110PS Diesel RxZ AMT,Bangalore,2016,45000,First,19.6,1461.0,108.45,5.0,15.05 Lakh,11.5,True,False,True,False,8,8
+1407,Toyota Innova Crysta 2.8 ZX AT,Kolkata,2016,66618,First,11.36,2755.0,171.5,7.0,24.82 Lakh,15.49,True,False,True,False,8,8
+1427,Toyota Innova Crysta 2.4 VX MT,Kochi,2018,8899,First,13.68,2393.0,147.8,7.0,22.86 Lakh,19.92,True,False,False,True,6,6
+1472,Hyundai Elantra 2.0 SX Option AT,Delhi,2017,9500,First,14.62,1999.0,149.92,5.0,21.77 Lakh,16.35,False,True,True,False,7,7
+1490,Hyundai Creta 1.6 SX Automatic Diesel,Chennai,2016,55000,First,17.6,1582.0,126.2,5.0,18.35 Lakh,12.5,True,False,True,False,8,8
+1497,Toyota Corolla Altis 1.8 VL CVT,Kochi,2018,28321,First,14.28,1798.0,138.03,5.0,23.25 Lakh,17.49,False,True,True,False,6,6
+1505,Land Rover Range Rover Sport SE,Kochi,2019,26013,First,12.65,2993.0,255.0,5.0,1.39 Cr,97.07,True,False,True,False,5,5
+1531,Skoda Rapid 1.5 TDI AT Style,Kolkata,2017,31300,First,21.72,1498.0,108.4,5.0,15.34 Lakh,10.5,True,False,True,False,7,7
+1532,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,11241,First,13.68,2393.0,147.8,8.0,24.01 Lakh,22.55,True,False,False,True,5,5
+1545,Mini Cooper 3 DOOR D,Mumbai,2016,20000,First,20.7,1496.0,113.98,4.0,35 Lakh,23.5,True,False,True,False,8,8
+1568,Land Rover Discovery Sport TD4 HSE 7S,Mumbai,2017,40000,First,12.81,1999.0,148.31,7.0,66.39 Lakh,41.5,True,False,True,False,7,7
+1574,Volkswagen Tiguan 2.0 TDI Highline,Jaipur,2017,50510,First,17.06,1968.0,141.0,5.0,36.45 Lakh,24.9,True,False,True,False,7,7
+1583,Audi Q7 45 TDI Quattro Premium Plus,Kochi,2019,6773,First,14.75,2967.0,245.0,7.0,91.38 Lakh,72.94,True,False,True,False,5,5
+1631,BMW X1 M Sport sDrive 20d,Kochi,2017,32838,First,17.05,1995.0,190.0,5.0,50.97 Lakh,30.29,True,False,True,False,7,7
+1652,Jaguar XE 2.0L Diesel Prestige,Hyderabad,2017,4000,First,13.6,1999.0,177.0,5.0,53.41 Lakh,38.0,True,False,True,False,7,7
+1689,BMW 5 Series 520d Luxury Line,Kochi,2018,32586,First,22.48,1995.0,190.0,5.0,67.87 Lakh,37.3,True,False,True,False,6,6
+1690,Mercedes-Benz GLE 350d,Coimbatore,2018,40129,First,11.57,2987.0,254.79,5.0,95.13 Lakh,70.8,True,False,True,False,6,6
+1708,Audi Q3 35 TDI Quattro Premium Plus,Coimbatore,2016,58661,First,15.17,1968.0,181.0,5.0,48.64 Lakh,28.03,True,False,True,False,8,8
+1824,Jeep Compass 2.0 Limited Option Black,Mumbai,2017,7000,First,17.1,1956.0,170.0,5.0,24.02 Lakh,17.45,True,False,False,True,7,7
+1830,Mercedes-Benz GLE 350d,Coimbatore,2017,33552,First,11.57,2987.0,254.79,5.0,95.13 Lakh,64.87,True,False,True,False,7,7
+1841,Mercedes-Benz A Class A180 Sport,Mumbai,2016,17000,First,15.5,1595.0,122.0,5.0,34.63 Lakh,17.25,False,True,True,False,8,8
+1855,BMW 3 Series 320d,Ahmedabad,2011,100000,Second,22.69,1995.0,190.0,5.0,43.31 Lakh,10.9,True,False,True,False,13,13
+1877,Toyota Innova Crysta 2.8 GX AT,Kochi,2019,10601,First,11.36,2755.0,171.5,7.0,20.74 Lakh,19.65,True,False,True,False,5,5
+1885,Mercedes-Benz GLS 350d Grand Edition,Delhi,2018,6000,First,11.0,2987.0,258.0,7.0,1.02 Cr,79.0,True,False,True,False,6,6
+1902,Toyota Fortuner 2.8 2WD AT,Ahmedabad,2017,15000,First,12.9,2755.0,174.5,7.0,34.45 Lakh,30.0,True,False,True,False,7,7
+1926,BMW X1 sDrive 20d xLine,Coimbatore,2015,42265,Second,20.68,1995.0,190.0,5.0,48.18 Lakh,22.24,True,False,True,False,9,9
+1963,Mercedes-Benz GLA Class 200 d Sport,Pune,2017,35000,First,17.9,2143.0,136.0,5.0,41.94 Lakh,23.5,True,False,True,False,7,7
+1991,Jeep Compass 2.0 Longitude,Kochi,2018,28937,First,17.1,1956.0,170.0,5.0,21.38 Lakh,17.02,True,False,False,True,6,6
+1995,Maruti Vitara Brezza ZDi Plus AMT Dual Tone,Chennai,2018,3000,First,24.3,1248.0,88.5,5.0,12.88 Lakh,11.25,True,False,True,False,6,6
+2003,BMW X1 sDrive 20d xLine,Bangalore,2016,28143,First,20.68,1995.0,190.0,5.0,48.18 Lakh,28.5,True,False,True,False,8,8
+2008,Toyota Innova Crysta 2.4 VX MT,Hyderabad,2017,67000,First,13.68,2393.0,147.8,7.0,22.87 Lakh,16.5,True,False,False,True,7,7
+2030,Toyota Innova Crysta 2.4 VX MT,Mumbai,2016,25121,First,13.68,2393.0,147.8,7.0,23.06 Lakh,17.11,True,False,False,True,8,8
+2056,BMW 7 Series 730Ld Eminence,Kochi,2015,29966,Second,16.77,2993.0,261.49,5.0,1.4 Cr,43.6,True,False,True,False,9,9
+2061,Jeep Compass 2.0 Longitude,Coimbatore,2018,33218,First,17.1,1956.0,170.0,5.0,22.46 Lakh,19.05,True,False,False,True,6,6
+2073,Mini Cooper 5 DOOR D,Hyderabad,2017,2000,First,20.7,1496.0,113.98,5.0,42.48 Lakh,34.0,True,False,True,False,7,7
+2095,Mercedes-Benz SLC 43 AMG,Coimbatore,2019,2526,First,19.0,2996.0,362.07,2.0,1.06 Cr,83.96,False,True,True,False,5,5
+2097,Mercedes-Benz E-Class E 220 d,Hyderabad,2013,85000,First,16.1,1950.0,194.0,5.0,71.15 Lakh,21.0,True,False,True,False,11,11
+2111,Mercedes-Benz GLE 250d,Kochi,2017,25601,First,17.9,2143.0,201.15,5.0,78.76 Lakh,56.73,True,False,True,False,7,7
+2134,Toyota Fortuner 2.8 2WD AT,Pune,2017,29000,First,12.9,2755.0,174.5,7.0,38.11 Lakh,31.0,True,False,True,False,7,7
+2157,Hyundai Creta 1.6 SX Option,Delhi,2016,24347,First,15.8,1591.0,121.3,5.0,16.06 Lakh,11.0,False,True,False,True,8,8
+2160,Honda City i-VTEC CVT VX,Mumbai,2017,17000,First,18.0,1497.0,117.3,5.0,15.29 Lakh,11.6,False,True,True,False,7,7
+2178,Land Rover Discovery HSE Luxury 3.0 TD6,Mumbai,2017,35000,First,18.0,2993.0,255.0,7.0,1.27 Cr,41.6,True,False,True,False,7,7
+2182,Toyota Fortuner 2.8 4WD MT,Bangalore,2015,150386,First,14.24,2755.0,174.5,7.0,39.6 Lakh,23.0,True,False,False,True,9,9
+2187,Hyundai Tucson 2.0 Dual VTVT 2WD AT GL,Mumbai,2016,13000,First,12.95,1999.0,152.88,5.0,25.75 Lakh,17.75,False,True,True,False,8,8
+2229,Honda City i-VTEC CVT ZX,Coimbatore,2018,20300,First,18.0,1497.0,117.3,5.0,17.38 Lakh,14.21,False,True,True,False,6,6
+2233,Toyota Innova Crysta 2.8 ZX AT,Hyderabad,2017,35358,First,11.36,2755.0,171.5,7.0,26.56 Lakh,22.99,True,False,True,False,7,7
+2242,Toyota Fortuner 2.8 4WD MT,Hyderabad,2010,110000,First,14.24,2755.0,174.5,7.0,37.51 Lakh,13.7,True,False,False,True,14,14
+2251,Honda City i-DTEC ZX,Hyderabad,2017,46000,First,25.6,1498.0,98.6,5.0,16.95 Lakh,12.9,True,False,False,True,7,7
+2260,BMW 5 Series 520d Luxury Line,Ahmedabad,2012,95000,Second,22.48,1995.0,190.0,5.0,63.71 Lakh,17.5,True,False,True,False,12,12
+2277,Toyota Fortuner 2.8 4WD MT,Mumbai,2010,140000,First,14.24,2755.0,174.5,7.0,37.46 Lakh,10.75,True,False,False,True,14,14
+2309,Hyundai Elantra 2.0 SX Option AT,Delhi,2016,28000,First,14.62,1999.0,149.92,5.0,21.77 Lakh,13.9,False,True,True,False,8,8
+2319,Mercedes-Benz E-Class E 350 d,Coimbatore,2019,9312,First,18.0,2987.0,258.0,5.0,92.5 Lakh,78.8,True,False,True,False,5,5
+2334,Toyota Fortuner 2.8 2WD AT,Ahmedabad,2016,88008,Second,12.9,2755.0,174.5,7.0,34.45 Lakh,22.5,True,False,True,False,8,8
+2341,Mercedes-Benz GLA Class 200 d Sport,Mumbai,2018,10000,First,17.9,2143.0,136.0,5.0,41.94 Lakh,28.9,True,False,True,False,6,6
+2364,Mini Cooper Convertible S,Chennai,2012,17000,Second,16.82,1998.0,189.08,4.0,44.28 Lakh,22.0,False,True,True,False,12,12
+2370,Mini Cooper 3 DOOR S,Mumbai,2013,21000,First,17.44,1998.0,189.08,4.0,39.57 Lakh,21.5,False,True,True,False,11,11
+2423,BMW 3 Series 320d,Mumbai,2013,25000,First,22.69,1995.0,190.0,5.0,47.87 Lakh,17.99,True,False,True,False,11,11
+2445,BMW 5 Series 520d Luxury Line,Ahmedabad,2013,55000,First,22.48,1995.0,190.0,5.0,63.71 Lakh,21.75,True,False,True,False,11,11
+2446,Mercedes-Benz GLC 220d 4MATIC Sport,Mumbai,2017,25000,First,17.9,2143.0,170.0,5.0,64.14 Lakh,45.0,True,False,True,False,7,7
+2454,Hyundai Creta 1.6 SX Option,Mumbai,2016,29477,First,15.8,1591.0,121.3,5.0,16.36 Lakh,10.25,False,True,False,True,8,8
+2455,Toyota Fortuner 2.8 2WD AT,Delhi,2017,40000,First,12.9,2755.0,174.5,7.0,37.38 Lakh,30.0,True,False,True,False,7,7
+2488,Tata Hexa XTA,Coimbatore,2019,14233,First,17.6,2179.0,153.86,7.0,22.74 Lakh,17.85,True,False,True,False,5,5
+2509,Mercedes-Benz E-Class E 220 d,Mumbai,2018,11000,First,16.1,1950.0,194.0,5.0,70.55 Lakh,56.5,True,False,True,False,6,6
+2510,BMW 3 Series 320d Luxury Line,Mumbai,2014,18600,Second,22.69,1995.0,190.0,5.0,54.43 Lakh,21.0,True,False,True,False,10,10
+2528,Land Rover Discovery SE 3.0 TD6,Delhi,2016,59000,First,18.0,2993.0,255.0,7.0,1.13 Cr,36.75,True,False,True,False,8,8
+2533,Mercedes-Benz CLA 200 CDI Sport,Coimbatore,2017,20969,First,17.9,2143.0,136.0,5.0,45.36 Lakh,27.87,True,False,True,False,7,7
+2536,Skoda Rapid 1.5 TDI Ambition,Coimbatore,2018,5833,First,21.13,1498.0,108.4,5.0,14.22 Lakh,11.92,True,False,False,True,6,6
+2563,Jeep Compass 2.0 Limited 4X4,Coimbatore,2018,48188,First,16.3,1956.0,170.0,5.0,26.95 Lakh,21.69,True,False,False,True,6,6
+2569,Toyota Innova Crysta 2.8 ZX AT,Coimbatore,2017,65367,First,11.36,2755.0,171.5,7.0,28.05 Lakh,20.14,True,False,True,False,7,7
+2604,Mini Cooper Convertible S,Mumbai,2016,15000,First,16.82,1998.0,189.08,4.0,44.28 Lakh,35.0,False,True,True,False,8,8
+2607,Hyundai Verna CRDi 1.6 SX Option,Pune,2017,50000,First,22.0,1582.0,126.2,5.0,15.72 Lakh,11.5,True,False,False,True,7,7
+2692,BMW 3 Series 320d,Kolkata,2011,70000,First,22.69,1995.0,190.0,5.0,43.81 Lakh,10.3,True,False,True,False,13,13
+2699,Audi Q3 35 TDI Quattro Premium Plus,Bangalore,2015,51000,First,15.17,1968.0,181.0,5.0,48.64 Lakh,27.5,True,False,True,False,9,9
+2702,Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,25299,First,24.3,1248.0,88.5,5.0,12.56 Lakh,10.34,True,False,False,True,7,7
+2711,Mini Cooper Convertible S,Kochi,2017,20469,First,16.82,1998.0,189.08,4.0,44.28 Lakh,35.98,False,True,True,False,7,7
+2742,BMW 5 Series 520d Luxury Line,Ahmedabad,2013,90000,First,22.48,1995.0,190.0,5.0,63.71 Lakh,19.5,True,False,True,False,11,11
+2763,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2017,72202,First,13.68,2393.0,147.8,8.0,24.01 Lakh,17.92,True,False,False,True,7,7
+2767,Mercedes-Benz GLE 350d,Coimbatore,2018,30706,First,11.57,2987.0,254.79,5.0,95.13 Lakh,59.29,True,False,True,False,6,6
+2808,Mercedes-Benz GLE 350d,Mumbai,2017,19863,First,11.57,2987.0,254.79,5.0,91.23 Lakh,64.95,True,False,True,False,7,7
+2827,BMW X3 xDrive 20d Luxury Line,Hyderabad,2009,58000,First,18.56,1995.0,190.0,5.0,69.59 Lakh,17.98,True,False,True,False,15,15
+2855,Toyota Fortuner 2.8 2WD AT,Kochi,2019,21719,First,12.9,2755.0,174.5,7.0,37.38 Lakh,33.13,True,False,True,False,5,5
+2876,Audi A6 35 TDI Matrix,Delhi,2014,56000,First,18.53,1968.0,187.74,5.0,59.38 Lakh,24.0,True,False,True,False,10,10
+2879,Audi A6 35 TDI Matrix,Hyderabad,2014,62000,First,18.53,1968.0,187.74,5.0,67.1 Lakh,25.0,True,False,True,False,10,10
+2890,Ford EcoSport 1.5 Petrol Titanium Plus AT,Coimbatore,2018,27852,First,14.8,1497.0,121.36,5.0,14.1 Lakh,10.44,False,True,True,False,6,6
+2900,Isuzu MUX 4WD,Jaipur,2017,34429,First,13.8,2999.0,174.57,7.0,33.68 Lakh,20.0,True,False,True,False,7,7
+2916,Jeep Compass 2.0 Limited 4X4,Coimbatore,2019,6261,First,16.3,1956.0,170.0,5.0,26.95 Lakh,23.91,True,False,False,True,5,5
+2920,Toyota Innova Crysta 2.4 VX MT,Mumbai,2017,38000,First,13.68,2393.0,147.8,7.0,23.06 Lakh,17.65,True,False,False,True,7,7
+2937,Toyota Innova Crysta 2.8 GX AT 8S,Delhi,2017,18000,First,11.36,2755.0,171.5,8.0,20.8 Lakh,18.25,True,False,True,False,7,7
+2959,Jeep Compass 2.0 Sport,Hyderabad,2017,37000,First,17.1,1956.0,170.0,5.0,19.91 Lakh,16.9,True,False,False,True,7,7
+3006,Jeep Compass 2.0 Limited,Pune,2018,16039,First,17.1,1956.0,170.0,5.0,23.89 Lakh,18.5,True,False,False,True,6,6
+3075,Toyota Corolla Altis 1.8 VL CVT,Kolkata,2018,5000,First,14.28,1798.0,138.03,5.0,22.37 Lakh,16.95,False,True,True,False,6,6
+3087,BMW 3 Series 320d,Coimbatore,2013,85846,First,22.69,1995.0,190.0,5.0,48.79 Lakh,13.08,True,False,True,False,11,11
+3158,Audi A4 30 TFSI Premium Plus,Kochi,2017,61221,First,17.84,1395.0,147.51,5.0,47.16 Lakh,21.73,False,True,True,False,7,7
+3161,Mini Cooper 5 DOOR D,Kochi,2019,14857,First,20.7,1496.0,113.98,5.0,41.98 Lakh,31.55,True,False,True,False,5,5
+3163,Ford Endeavour Titanium 4X2,Coimbatore,2019,14648,First,12.62,2198.0,158.0,7.0,35.29 Lakh,27.36,True,False,False,True,5,5
+3190,Toyota Innova Crysta 2.8 GX AT,Pune,2018,20300,First,11.36,2755.0,171.5,7.0,20.97 Lakh,18.0,True,False,True,False,6,6
+3194,Mini Cooper 3 DOOR D,Kochi,2015,27641,Second,20.7,1496.0,113.98,4.0,34.89 Lakh,24.77,True,False,True,False,9,9
+3198,Mahindra XUV500 W7,Delhi,2018,9000,First,14.0,2179.0,155.0,7.0,16.4 Lakh,13.0,True,False,False,True,6,6
+3199,BMW 7 Series 730Ld Design Pure Excellence CBU,Kolkata,2012,41100,First,16.77,2993.0,261.49,5.0,1.66 Cr,26.5,True,False,True,False,12,12
+3244,Jeep Compass 2.0 Limited Option 4X4,Kolkata,2017,15050,First,16.3,1956.0,170.0,5.0,23.19 Lakh,17.5,True,False,False,True,7,7
+3259,Audi Q3 30 TDI Premium FWD,Mumbai,2017,31000,First,18.51,1968.0,147.51,5.0,44.75 Lakh,27.0,True,False,True,False,7,7
+3266,Mercedes-Benz E-Class E400 Cabriolet,Kolkata,2015,7501,First,10.0,2996.0,333.0,4.0,87.57 Lakh,48.0,False,True,True,False,9,9
+3268,Mercedes-Benz GLE 350d,Coimbatore,2018,29277,First,11.57,2987.0,254.79,5.0,95.13 Lakh,59.65,True,False,True,False,6,6
+3277,Mini Cooper 3 DOOR D,Kochi,2016,32298,First,20.7,1496.0,113.98,4.0,35 Lakh,23.8,True,False,True,False,8,8
+3324,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,29836,First,17.9,2143.0,136.0,5.0,43.07 Lakh,25.75,True,False,True,False,5,5
+3373,Honda City i-VTEC VX,Mumbai,2017,7500,First,17.4,1497.0,117.3,5.0,13.76 Lakh,11.15,False,True,False,True,7,7
+3425,Maruti Vitara Brezza ZDi Plus,Coimbatore,2018,52380,First,24.3,1248.0,88.5,5.0,12.47 Lakh,10.15,True,False,False,True,6,6
+3471,Volkswagen Vento 1.5 TDI Highline AT,Hyderabad,2016,45492,First,21.5,1498.0,108.5,5.0,15.68 Lakh,10.3,True,False,True,False,8,8
+3500,BMW 5 Series 520d Luxury Line,Delhi,2013,65000,First,22.48,1995.0,190.0,5.0,67.87 Lakh,21.26,True,False,True,False,11,11
+3501,Toyota Corolla Altis 1.8 G,Bangalore,2016,16471,Second,14.28,1798.0,138.03,5.0,20.48 Lakh,11.5,False,True,False,True,8,8
+3514,Honda City i-VTEC CVT VX,Pune,2018,4500,First,18.0,1497.0,117.3,5.0,15.17 Lakh,12.5,False,True,True,False,6,6
+3518,Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,42646,First,19.6,1461.0,108.45,5.0,15.05 Lakh,12.46,True,False,True,False,7,7
+3544,Jeep Compass 2.0 Limited Option 4X4,Jaipur,2017,45000,First,16.3,1956.0,170.0,5.0,25.54 Lakh,20.0,True,False,False,True,7,7
+3550,Honda City i-DTEC ZX,Pune,2017,42000,First,25.6,1498.0,98.6,5.0,16.84 Lakh,12.0,True,False,False,True,7,7
+3555,Toyota Innova Crysta 2.4 VX MT,Coimbatore,2019,33598,First,13.68,2393.0,147.8,7.0,23.94 Lakh,22.2,True,False,False,True,5,5
+3567,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,13414,First,17.9,2143.0,136.0,5.0,43.07 Lakh,30.77,True,False,True,False,5,5
+3572,Audi A6 35 TDI Matrix,Coimbatore,2017,36824,First,18.53,1968.0,187.74,5.0,69.37 Lakh,39.84,True,False,True,False,7,7
+3581,BMW 3 Series Luxury Line,Ahmedabad,2016,27000,First,21.76,1995.0,190.0,5.0,55.07 Lakh,35.0,True,False,True,False,8,8
+3584,Jeep Compass 2.0 Longitude,Kochi,2018,42203,First,17.1,1956.0,170.0,5.0,21.72 Lakh,19.46,True,False,False,True,6,6
+3640,Toyota Fortuner 2.8 4WD MT,Kochi,2011,169006,First,14.24,2755.0,174.5,7.0,36.69 Lakh,10.64,True,False,False,True,13,13
+3662,Tata Hexa XT,Pune,2017,39800,First,17.6,2179.0,153.86,7.0,20.87 Lakh,14.25,True,False,False,True,7,7
+3697,BMW 5 Series 520d Luxury Line,Ahmedabad,2010,46000,First,22.48,1995.0,190.0,5.0,63.71 Lakh,16.5,True,False,True,False,14,14
+3705,Mercedes-Benz GLC 220d 4MATIC Style,Coimbatore,2019,29311,First,17.9,2143.0,170.0,5.0,64.57 Lakh,50.97,True,False,True,False,5,5
+3706,BMW 3 Series Luxury Line,Mumbai,2016,31000,First,21.76,1995.0,190.0,5.0,60.88 Lakh,29.95,True,False,True,False,8,8
+3735,BMW 3 Series 320d,Hyderabad,2010,80000,First,22.69,1995.0,190.0,5.0,47.2 Lakh,14.2,True,False,True,False,14,14
+3745,Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,26927,First,24.3,1248.0,88.5,5.0,12.56 Lakh,11.39,True,False,False,True,7,7
+3752,Land Rover Range Rover Sport HSE,Kochi,2015,38467,First,12.65,2993.0,255.0,5.0,1.6 Cr,70.66,True,False,True,False,9,9
+3784,Toyota Innova Crysta 2.8 ZX AT,Kochi,2017,26023,First,11.36,2755.0,171.5,7.0,26.55 Lakh,19.97,True,False,True,False,7,7
+3836,Audi A6 35 TFSI Matrix,Delhi,2018,22000,First,15.26,1798.0,187.74,5.0,56.97 Lakh,41.5,False,True,True,False,6,6
+3838,Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2018,28741,First,24.3,1248.0,88.5,5.0,12.56 Lakh,11.0,True,False,False,True,6,6
+3852,BMW 3 Series 320d,Kochi,2012,55598,First,22.69,1995.0,190.0,5.0,47.87 Lakh,11.5,True,False,True,False,12,12
+3907,Toyota Innova Crysta 2.8 GX AT 8S,Chennai,2016,40000,First,11.36,2755.0,171.5,8.0,21.1 Lakh,16.45,True,False,True,False,8,8
+3911,Skoda Superb Style 1.8 TSI AT,Mumbai,2016,14500,First,14.67,1798.0,177.46,5.0,33.36 Lakh,20.75,False,True,True,False,8,8
+3935,Toyota Innova Crysta 2.8 ZX AT,Pune,2016,50296,Second,11.36,2755.0,171.5,7.0,27.07 Lakh,19.0,True,False,True,False,8,8
+3943,Jeep Compass 2.0 Longitude,Kochi,2018,26101,First,17.1,1956.0,170.0,5.0,21.38 Lakh,17.55,True,False,False,True,6,6
+4028,Mercedes-Benz CLA 200 CGI Sport,Delhi,2016,40000,First,15.04,1991.0,183.0,5.0,41.02 Lakh,24.5,False,True,True,False,8,8
+4034,Hyundai Creta 1.6 SX Automatic Diesel,Kolkata,2018,14000,First,17.6,1582.0,126.2,5.0,17 Lakh,11.25,True,False,True,False,6,6
+4061,Audi RS5 Coupe,Mumbai,2013,23312,First,11.05,2894.0,444.0,4.0,1.28 Cr,40.5,False,True,True,False,11,11
+4069,BMW 5 Series 520d Luxury Line,Coimbatore,2014,60280,First,22.48,1995.0,190.0,5.0,63.71 Lakh,22.45,True,False,True,False,10,10
+4079,Land Rover Range Rover 3.0 Diesel LWB Vogue,Hyderabad,2017,25000,First,13.33,2993.0,255.0,5.0,2.3 Cr,160.0,True,False,True,False,7,7
+4096,Toyota Camry Hybrid 2.5,Coimbatore,2017,23249,First,19.16,2487.0,175.67,5.0,40.62 Lakh,26.11,False,True,True,False,7,7
+4104,Skoda Superb Style 1.8 TSI AT,Coimbatore,2016,54253,First,14.67,1798.0,177.46,5.0,30.19 Lakh,16.81,False,True,True,False,8,8
+4131,Toyota Fortuner 2.8 2WD MT,Coimbatore,2019,56251,First,14.24,2755.0,174.5,7.0,37.17 Lakh,35.82,True,False,False,True,5,5
+4163,Toyota Innova Crysta 2.8 ZX AT,Bangalore,2017,53841,First,11.36,2755.0,171.5,7.0,28.05 Lakh,20.5,True,False,True,False,7,7
+4164,Hyundai Creta 1.6 SX Option,Kochi,2017,47183,Second,15.8,1591.0,121.3,5.0,15.86 Lakh,11.31,False,True,False,True,7,7
+4180,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2017,101065,First,20.5,1582.0,126.2,5.0,19.18 Lakh,11.45,True,False,False,True,7,7
+4233,Audi Q3 30 TDI Premium FWD,Coimbatore,2018,22060,First,18.51,1968.0,147.51,5.0,44.8 Lakh,32.73,True,False,True,False,6,6
+4236,Audi A4 35 TDI Premium Plus,Kochi,2015,13506,First,18.25,1968.0,187.74,5.0,50.4 Lakh,21.66,True,False,True,False,9,9
+4273,Skoda Superb Style 1.8 TSI AT,Mumbai,2016,53000,First,14.67,1798.0,177.46,5.0,33.36 Lakh,17.85,False,True,True,False,8,8
+4284,Toyota Innova Crysta 2.8 ZX AT,Delhi,2016,42000,First,11.36,2755.0,171.5,7.0,26.55 Lakh,19.6,True,False,True,False,8,8
+4318,Toyota Innova Crysta 2.8 ZX AT,Ahmedabad,2016,42388,First,11.36,2755.0,171.5,7.0,24.63 Lakh,18.0,True,False,True,False,8,8
+4327,BMW X1 xDrive 20d M Sport,Kolkata,2017,27001,First,20.68,1995.0,190.0,5.0,50.26 Lakh,29.0,True,False,True,False,7,7
+4350,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,31271,First,13.68,2393.0,147.8,8.0,24.01 Lakh,21.42,True,False,False,True,5,5
+4373,Toyota Innova Crysta 2.4 ZX MT,Ahmedabad,2016,54000,First,13.68,2393.0,147.8,7.0,23.14 Lakh,16.5,True,False,False,True,8,8
+4451,Ford Mustang V8,Kochi,2018,21290,First,13.0,4951.0,395.0,4.0,83.92 Lakh,56.8,False,True,True,False,6,6
+4452,Toyota Innova Crysta 2.8 GX AT,Kochi,2019,14076,First,11.36,2755.0,171.5,7.0,20.74 Lakh,19.4,True,False,True,False,5,5
+4481,Skoda Superb Style 2.0 TDI AT,Mumbai,2015,19000,First,18.19,1968.0,174.5,5.0,36.94 Lakh,15.5,True,False,True,False,9,9
+4523,Mitsubishi Pajero Sport 4X4,Coimbatore,2015,53497,First,13.5,2477.0,175.56,7.0,34.6 Lakh,16.42,True,False,False,True,9,9
+4527,Mercedes-Benz GLE 350d,Chennai,2016,29000,First,11.57,2987.0,254.79,5.0,92.79 Lakh,65.0,True,False,True,False,8,8
+4541,BMW 3 Series 320d,Mumbai,2011,51000,First,22.69,1995.0,190.0,5.0,47.87 Lakh,10.5,True,False,True,False,13,13
+4551,BMW 5 Series 520d Luxury Line,Coimbatore,2011,51602,First,22.48,1995.0,190.0,5.0,63.71 Lakh,17.27,True,False,True,False,13,13
+4554,BMW 3 Series Luxury Line,Pune,2016,70000,Second,21.76,1995.0,190.0,5.0,62.11 Lakh,27.0,True,False,True,False,8,8
+4570,Maruti Vitara Brezza ZDi Plus AMT Dual Tone,Chennai,2018,3300,First,24.3,1248.0,88.5,5.0,12.88 Lakh,11.5,True,False,True,False,6,6
+4601,BMW X1 sDrive 20d xLine,Coimbatore,2019,15456,First,20.68,1995.0,190.0,5.0,48.18 Lakh,36.64,True,False,True,False,5,5
+4689,Toyota Fortuner 2.8 2WD MT,Coimbatore,2017,72668,First,14.24,2755.0,174.5,7.0,37.17 Lakh,28.85,True,False,False,True,7,7
+4706,Toyota Innova Crysta 2.8 ZX AT,Chennai,2016,80000,First,11.36,2755.0,171.5,7.0,26.95 Lakh,19.5,True,False,True,False,8,8
+4728,Hyundai Verna VTVT 1.6 SX Option,Kochi,2019,12336,First,17.0,1591.0,121.3,5.0,13.6 Lakh,11.88,False,True,False,True,5,5
+4755,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,Hyderabad,2016,52000,First,15.68,1999.0,177.0,5.0,74.49 Lakh,42.0,True,False,True,False,8,8
+4778,Mercedes-Benz S-Class S 350 d,Bangalore,2011,47140,Second,13.5,2925.0,281.61,5.0,1.71 Cr,30.0,True,False,True,False,13,13
+4780,Hyundai Creta 1.6 SX Option Diesel,Bangalore,2016,93000,First,20.5,1582.0,126.2,5.0,19.18 Lakh,10.8,True,False,False,True,8,8
+4788,Volvo V40 D3 R Design,Hyderabad,2015,38000,Second,16.8,1969.0,150.0,5.0,37.9 Lakh,24.0,True,False,True,False,9,9
+4795,BMW 3 Series Luxury Line,Kochi,2018,21936,First,21.76,1995.0,190.0,5.0,58.67 Lakh,37.92,True,False,True,False,6,6
+4841,BMW 3 Series 320d,Hyderabad,2011,89000,First,22.69,1995.0,190.0,5.0,47.2 Lakh,13.95,True,False,True,False,13,13
+4858,Audi A4 35 TDI Technology,Hyderabad,2017,14000,First,18.25,1968.0,187.74,5.0,55.61 Lakh,43.0,True,False,True,False,7,7
+4887,Maruti Vitara Brezza ZDi Plus,Kochi,2018,57078,First,24.3,1248.0,88.5,5.0,11.58 Lakh,10.19,True,False,False,True,6,6
+4914,Mercedes-Benz GLC 220d 4MATIC Style,Mumbai,2017,24000,First,17.9,2143.0,170.0,5.0,59.77 Lakh,46.95,True,False,True,False,7,7
+4926,Hyundai Creta 1.6 SX Option Executive,Coimbatore,2018,44383,First,15.8,1591.0,121.3,5.0,17.7 Lakh,13.25,False,True,False,True,6,6
+4942,Audi A4 35 TDI Premium Plus,Coimbatore,2014,28469,First,18.25,1968.0,187.74,5.0,53.14 Lakh,24.37,True,False,True,False,10,10
+4984,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2019,24864,First,20.5,1582.0,126.2,5.0,19.18 Lakh,16.27,True,False,False,True,5,5
+4988,BMW 5 Series 530d M Sport,Hyderabad,2016,27000,First,18.59,2993.0,265.0,5.0,78.31 Lakh,48.0,True,False,True,False,8,8
+4989,Audi A3 35 TDI Premium Plus,Mumbai,2016,39000,First,20.38,1968.0,143.0,5.0,42.89 Lakh,18.9,True,False,True,False,8,8
+5002,BMW X3 xDrive 20d xLine,Kochi,2017,36723,First,18.56,1995.0,190.0,5.0,64.76 Lakh,32.57,True,False,True,False,7,7
+5009,Audi Q7 45 TDI Quattro Technology,Pune,2017,59500,First,14.75,2967.0,245.0,7.0,99.92 Lakh,68.0,True,False,True,False,7,7
+5038,Land Rover Discovery Sport TD4 HSE 7S,Coimbatore,2019,24013,First,12.81,1999.0,148.31,7.0,69.22 Lakh,56.14,True,False,True,False,5,5
+5049,Jeep Compass 2.0 Sport,Kolkata,2017,27000,First,17.1,1956.0,170.0,5.0,18.45 Lakh,15.0,True,False,False,True,7,7
+5107,Mercedes-Benz GLE 250d,Hyderabad,2016,50000,First,17.9,2143.0,201.15,5.0,79.43 Lakh,49.0,True,False,True,False,8,8
+5118,Mercedes-Benz GLE 350d,Bangalore,2016,28541,First,11.57,2987.0,254.79,5.0,95.13 Lakh,60.75,True,False,True,False,8,8
+5166,Mercedes-Benz CLA 200 CDI Sport,Jaipur,2017,39000,First,17.9,2143.0,136.0,5.0,42.4 Lakh,27.0,True,False,True,False,7,7
+5172,Toyota Corolla Altis 1.8 GL,Coimbatore,2015,53920,First,14.28,1798.0,138.03,5.0,23.37 Lakh,10.77,False,True,False,True,9,9
+5175,BMW 5 Series 530d M Sport,Chennai,2010,58000,First,18.59,2993.0,265.0,5.0,79.78 Lakh,11.75,True,False,True,False,14,14
+5229,BMW 3 Series 320d,Bangalore,2012,73000,First,22.69,1995.0,190.0,5.0,48.79 Lakh,12.5,True,False,True,False,12,12
+5237,Hyundai Creta 1.6 SX Option,Kochi,2018,53322,First,15.8,1591.0,121.3,5.0,16.06 Lakh,12.13,False,True,False,True,6,6
+5272,Hyundai Creta 1.6 SX,Coimbatore,2018,17665,First,15.8,1591.0,121.3,5.0,15.36 Lakh,11.78,False,True,False,True,6,6
+5304,BMW 3 Series Luxury Line,Bangalore,2017,21000,First,21.76,1995.0,190.0,5.0,62.07 Lakh,35.0,True,False,True,False,7,7
+5313,Audi A6 35 TDI Matrix,Chennai,2015,20000,First,18.53,1968.0,187.74,5.0,67.67 Lakh,35.5,True,False,True,False,9,9
+5328,BMW 3 Series 320d Luxury Line,Hyderabad,2015,47000,First,22.69,1995.0,190.0,5.0,53.68 Lakh,29.5,True,False,True,False,9,9
+5331,Ford Ecosport Signature Edition Diesel,Ahmedabad,2018,13000,First,23.0,1498.0,98.96,5.0,12.12 Lakh,10.9,True,False,False,True,6,6
+5366,Toyota Innova Crysta 2.4 GX MT,Hyderabad,2016,73000,First,13.68,2393.0,147.8,7.0,19.37 Lakh,16.5,True,False,False,True,8,8
+5419,Toyota Corolla Altis 1.8 VL CVT,Coimbatore,2016,82725,First,14.28,1798.0,138.03,5.0,25.27 Lakh,11.99,False,True,True,False,8,8
+5420,BMW 3 Series Sport,Mumbai,2016,19000,Second,21.76,1995.0,190.0,5.0,57.3 Lakh,29.99,True,False,True,False,8,8
+5447,Mercedes-Benz GLA Class 200 d Style,Kochi,2016,26212,First,17.9,2143.0,136.0,5.0,38.72 Lakh,24.46,True,False,True,False,8,8
+5470,BMW 3 Series 320d,Bangalore,2010,58000,First,22.69,1995.0,190.0,5.0,48.79 Lakh,11.5,True,False,True,False,14,14
+5484,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2016,47392,First,20.5,1582.0,126.2,5.0,19.18 Lakh,13.82,True,False,False,True,8,8
+5516,BMW X3 xDrive 20d Luxury Line,Mumbai,2018,1400,First,18.56,1995.0,190.0,5.0,70.55 Lakh,61.25,True,False,True,False,6,6
+5518,Mini Cooper 3 DOOR S,Kochi,2016,21110,First,17.44,1998.0,189.08,4.0,39.27 Lakh,28.95,False,True,True,False,8,8
+5542,Toyota Innova Crysta 2.8 GX AT,Kochi,2017,20789,First,11.36,2755.0,171.5,7.0,20.74 Lakh,18.36,True,False,True,False,7,7
+5545,Land Rover Range Rover Sport SE,Delhi,2014,47000,Second,12.65,2993.0,255.0,5.0,1.39 Cr,64.75,True,False,True,False,10,10
+5558,BMW 5 Series 520d Luxury Line,Coimbatore,2016,75637,First,22.48,1995.0,190.0,5.0,71.82 Lakh,30.37,True,False,True,False,8,8
+5564,BMW 3 Series 320d Luxury Line,Kochi,2016,62404,First,22.69,1995.0,190.0,5.0,54.43 Lakh,21.33,True,False,True,False,8,8
+5568,BMW 3 Series Luxury Line,Coimbatore,2017,34232,First,21.76,1995.0,190.0,5.0,55.07 Lakh,35.84,True,False,True,False,7,7
+5582,Toyota Fortuner 2.8 2WD AT,Coimbatore,2019,28069,First,12.9,2755.0,174.5,7.0,34.45 Lakh,30.85,True,False,True,False,5,5
+5626,Skoda Superb Style 1.8 TSI AT,Kochi,2017,73641,First,14.67,1798.0,177.46,5.0,33.36 Lakh,17.08,False,True,True,False,7,7
+5715,Honda City i-VTEC CVT V,Kochi,2019,22321,First,18.0,1497.0,117.3,5.0,13.4 Lakh,11.66,False,True,True,False,5,5
+5749,Honda City i-VTEC V,Kochi,2018,11732,First,17.4,1497.0,117.3,5.0,11.88 Lakh,10.07,False,True,False,True,6,6
+5757,Toyota Innova Crysta 2.4 VX MT,Kolkata,2017,31000,First,13.68,2393.0,147.8,7.0,21.36 Lakh,16.95,True,False,False,True,7,7
+5762,Volvo S60 D4 Momentum,Hyderabad,2014,51000,First,27.03,1969.0,190.0,5.0,45.67 Lakh,21.5,True,False,True,False,10,10
+5867,Skoda Superb L&K 2.0 TDI AT,Mumbai,2017,35000,First,18.19,1968.0,174.5,5.0,40.73 Lakh,25.75,True,False,True,False,7,7
+5875,Mercedes-Benz C-Class Progressive C 220d,Ahmedabad,2019,4000,First,0.0,1950.0,194.0,5.0,49.14 Lakh,35.0,True,False,True,False,5,5
+5879,Mitsubishi Pajero Sport 4X4,Jaipur,2014,70000,Second,13.5,2477.0,175.56,7.0,33.21 Lakh,11.85,True,False,False,True,10,10
+5894,Hyundai Creta 1.6 SX,Hyderabad,2018,9900,First,15.8,1591.0,121.3,5.0,14.72 Lakh,13.2,False,True,False,True,6,6
+5907,Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,34686,First,19.6,1461.0,108.45,5.0,15.05 Lakh,11.86,True,False,True,False,7,7
+5923,Skoda Superb Style 2.0 TDI AT,Mumbai,2017,42000,First,18.19,1968.0,174.5,5.0,36.94 Lakh,22.99,True,False,True,False,7,7
+5964,Hyundai Verna VTVT 1.6 AT SX Option,Mumbai,2018,8000,First,17.0,1591.0,121.3,5.0,15.14 Lakh,12.85,False,True,True,False,6,6
+5970,Mercedes-Benz GLA Class 200 Sport,Kochi,2018,17773,First,13.7,1991.0,183.0,5.0,39.22 Lakh,26.76,False,True,True,False,6,6
+5982,Tata Hexa XTA,Jaipur,2016,39000,First,17.6,2179.0,153.86,7.0,21 Lakh,13.5,True,False,True,False,8,8
+5989,Audi A4 35 TDI Premium Plus,Coimbatore,2013,58629,Second,18.25,1968.0,187.74,5.0,53.14 Lakh,16.52,True,False,True,False,11,11

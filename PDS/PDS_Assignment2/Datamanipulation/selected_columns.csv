@@ -1,0 +1,815 @@
+Name,Location,Year,Kilometers_Driven,Owner_Type,Seats,Price,Fuel_Diesel,Fuel_Petrol,Transmission_Automatic,Transmission_Manual
+Honda Jazz V,Chennai,2011,46000,First,5.0,4.5,False,True,False,True
+Toyota Innova Crysta 2.8 GX AT 8S,Mumbai,2016,36000,First,8.0,17.5,True,False,True,False
+Maruti Ciaz Zeta,Kochi,2018,25692,First,5.0,9.95,False,True,False,True
+Mitsubishi Pajero Sport 4X4,Delhi,2014,110000,First,7.0,15.0,True,False,False,True
+BMW 3 Series 320d,Kochi,2014,32982,First,5.0,18.55,True,False,True,False
+Honda WRV i-VTEC VX,Kochi,2018,37430,First,5.0,9.9,False,True,False,True
+Volkswagen Vento 1.6 Highline,Coimbatore,2014,55431,Second,5.0,6.98,False,True,False,True
+Maruti Vitara Brezza ZDi Plus,Kochi,2018,50075,First,5.0,8.63,True,False,False,True
+Hyundai Elantra 2.0 SX Option AT,Bangalore,2014,46374,First,5.0,8.85,False,True,True,False
+Toyota Innova Crysta 2.7 GX MT,Bangalore,2012,70704,First,7.0,10.95,False,True,False,True
+Toyota Innova Crysta 2.4 GX MT 8S,Mumbai,2017,22000,First,8.0,16.5,True,False,False,True
+Mercedes-Benz C-Class Progressive C 220d,Coimbatore,2019,15369,First,5.0,35.67,True,False,True,False
+Hyundai Creta 1.4 E Plus Diesel,Mumbai,2018,13000,First,5.0,10.5,True,False,False,True
+Nissan Terrano XV D Pre,Kochi,2015,56066,First,5.0,6.92,True,False,False,True
+Tata Zest Revotron 1.2T XE,Pune,2017,70000,First,5.0,4.5,False,True,False,True
+Datsun GO Plus T Petrol,Pune,2017,32851,First,7.0,3.95,False,True,False,True
+Toyota Etios Liva 1.2 G,Ahmedabad,2014,53000,First,5.0,3.9,False,True,False,True
+Toyota Innova Crysta 2.8 ZX AT,Mumbai,2017,30000,First,7.0,19.25,True,False,True,False
+Maruti Eeco 5 Seater AC,Coimbatore,2017,38053,First,5.0,3.91,False,True,False,True
+BMW 3 Series 320d Luxury Line,Mumbai,2015,56087,First,5.0,20.75,True,False,True,False
+Nissan Micra XV CVT,Coimbatore,2016,39882,First,5.0,6.55,False,True,True,False
+Maruti Vitara Brezza VDi,Mumbai,2016,55000,First,5.0,7.5,True,False,False,True
+Hyundai Verna CRDi 1.6 SX Option,Kolkata,2018,10250,First,5.0,10.95,True,False,False,True
+Maruti Alto K10 VXI,Hyderabad,2014,88500,First,5.0,2.6,False,True,False,True
+Mercedes-Benz SLC 43 AMG,Kolkata,2017,13372,First,2.0,54.0,False,True,True,False
+Hyundai Verna VTVT 1.6 AT SX Plus,Kochi,2019,12645,First,5.0,11.5,False,True,True,False
+Audi RS5 Coupe,Mumbai,2013,23000,First,4.0,37.0,False,True,True,False
+BMW 3 Series Luxury Line,Mumbai,2014,48000,First,5.0,26.5,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Asta,Kolkata,2019,1000,First,5.0,6.5,False,True,False,True
+BMW 5 Series 520d Luxury Line,Hyderabad,2014,51000,First,5.0,33.5,True,False,True,False
+Maruti Baleno Alpha,Kochi,2017,24773,First,5.0,7.5,False,True,False,True
+Maruti Ertiga ZDI,Mumbai,2016,33000,First,7.0,8.5,True,False,False,True
+Mahindra NuvoSport N6,Chennai,2017,29000,Second,7.0,6.5,True,False,False,True
+Maruti Vitara Brezza ZDi Plus Dual Tone,Mumbai,2016,20000,First,5.0,9.0,True,False,False,True
+Honda Amaze S Diesel,Kolkata,2013,45000,First,5.0,3.25,True,False,False,True
+Skoda Superb Style 1.8 TSI AT,Hyderabad,2017,26000,First,5.0,26.0,False,True,True,False
+Mahindra Verito 1.5 D4 BSIV,Hyderabad,2013,107000,First,5.0,3.7,True,False,False,True
+Maruti Wagon R VXI,Kolkata,2013,32000,First,5.0,2.65,False,True,False,True
+Mini Cooper Convertible S,Kochi,2017,26327,First,4.0,35.67,False,True,True,False
+Toyota Innova Crysta 2.8 GX AT,Kochi,2019,14165,First,7.0,19.64,True,False,True,False
+Honda City i-VTEC V,Kolkata,2011,32572,First,5.0,3.87,False,True,False,True
+Toyota Innova Crysta 2.4 ZX MT,Pune,2017,43000,First,7.0,18.65,True,False,False,True
+Hyundai Verna CRDi 1.6 SX,Hyderabad,2008,143275,First,5.0,2.6,True,False,False,True
+Mercedes-Benz GLE 350d,Coimbatore,2017,29819,First,5.0,61.29,True,False,True,False
+Tata Zest Quadrajet 1.3 75PS XE,Pune,2017,121900,First,5.0,3.75,True,False,False,True
+Tata Zest Quadrajet 1.3 75PS XE,Pune,2018,45000,First,5.0,5.25,True,False,False,True
+Honda Jazz VX,Delhi,2015,62178,First,5.0,4.85,False,True,False,True
+Toyota Innova Crysta 2.4 ZX MT,Chennai,2016,48000,First,7.0,20.25,True,False,False,True
+Honda City i-VTEC CVT ZX,Mumbai,2017,15000,First,5.0,12.69,False,True,True,False
+Mercedes-Benz GLE 250d,Hyderabad,2017,29000,First,5.0,57.0,True,False,True,False
+Honda Brio 1.2 VX MT,Kochi,2012,91931,First,5.0,3.13,False,True,False,True
+Audi Q7 45 TDI Quattro Technology,Coimbatore,2017,97430,First,7.0,62.67,True,False,True,False
+Maruti Vitara Brezza LDi,Chennai,2016,45000,First,5.0,7.15,True,False,False,True
+BMW 3 Series Luxury Line,Kochi,2015,30717,Second,5.0,25.99,True,False,True,False
+Skoda Octavia RS,Jaipur,2005,100000,First,5.0,2.05,False,True,True,False
+Maruti Alto K10 VXI,Pune,2017,30000,First,5.0,3.75,False,True,False,True
+Jaguar XF 2.0 Diesel Portfolio,Hyderabad,2017,21000,First,5.0,52.0,True,False,True,False
+Skoda Superb L&K 1.8 TSI AT,Kochi,2019,13747,First,5.0,27.3,False,True,True,False
+Mini Clubman Cooper S,Pune,2017,8350,First,5.0,35.0,False,True,False,True
+Maruti Vitara Brezza ZDi Plus,Hyderabad,2017,39000,First,5.0,9.49,True,False,False,True
+Honda BRV i-VTEC V CVT,Kochi,2017,35676,First,7.0,9.48,False,True,True,False
+Jaguar XE Portfolio,Mumbai,2017,9000,First,5.0,34.5,False,True,True,False
+Mitsubishi Pajero Sport 4X2 AT DualTone BlackTop,Hyderabad,2018,12000,First,7.0,28.0,True,False,True,False
+BMW 3 Series Luxury Line,Mumbai,2015,41000,First,5.0,25.5,True,False,True,False
+Honda BR-V i-VTEC S MT,Pune,2017,9000,First,7.0,8.5,False,True,False,True
+Hyundai i20 Active SX Petrol,Jaipur,2017,40250,First,5.0,6.9,False,True,False,True
+Mercedes-Benz GLC 43 AMG Coupe,Coimbatore,2018,22397,First,5.0,70.99,False,True,True,False
+Audi A6 35 TFSI Matrix,Mumbai,2016,47000,First,5.0,24.5,False,True,True,False
+Mini Cooper Convertible S,Mumbai,2014,11900,First,4.0,28.5,False,True,True,False
+Mahindra Bolero ZLX,Coimbatore,2016,82756,First,7.0,7.7,True,False,False,True
+Volkswagen Vento 1.6 Comfortline,Mumbai,2017,15000,Second,5.0,7.1,False,True,False,True
+Maruti S-Cross Delta DDiS 200 SH,Delhi,2018,12923,First,5.0,8.92,True,False,False,True
+Audi Q3 35 TDI Quattro Premium Plus,Coimbatore,2016,86642,First,5.0,20.37,True,False,True,False
+BMW 3 Series Luxury Line,Bangalore,2016,19235,First,5.0,36.5,True,False,True,False
+Mercedes-Benz E-Class E 220 d,Kochi,2018,26405,First,5.0,51.43,False,True,True,False
+Mercedes-Benz GLS 350d 4MATIC,Pune,2017,129000,First,7.0,56.0,True,False,True,False
+Maruti Wagon R LXI,Ahmedabad,2012,30000,First,5.0,3.3,False,True,False,True
+Hyundai Creta 1.6 SX,Chennai,2016,69434,First,5.0,8.0,False,True,False,True
+Mercedes-Benz New C-Class Progressive C 200,Kochi,2019,13190,First,5.0,38.99,False,True,True,False
+BMW X1 sDrive 20d xLine,Coimbatore,2017,31645,First,5.0,29.4,True,False,True,False
+Maruti Ertiga ZDI,Pune,2013,105000,Second,7.0,6.75,True,False,False,True
+Skoda Rapid 1.5 TDI Style,Hyderabad,2017,31000,First,5.0,10.5,True,False,False,True
+Toyota Innova Crysta 2.8 GX AT,Ahmedabad,2016,100200,First,7.0,17.0,True,False,True,False
+Jeep Compass 2.0 Limited,Jaipur,2018,29000,First,5.0,19.0,True,False,False,True
+Mahindra Bolero ZLX,Jaipur,2012,105000,Second,7.0,6.0,True,False,False,True
+Volkswagen Polo 1.5 TDI Highline,Coimbatore,2018,33558,First,5.0,8.12,True,False,False,True
+Toyota Innova Crysta 2.8 ZX AT,Coimbatore,2019,40674,First,7.0,24.82,True,False,True,False
+Mercedes-Benz GLC 220d 4MATIC Style,Mumbai,2018,10003,First,5.0,48.5,True,False,True,False
+Volkswagen Vento 1.5 TDI Highline AT,Mumbai,2016,25000,First,5.0,9.45,True,False,True,False
+Toyota Innova Crysta 2.4 GX MT 8S,Hyderabad,2017,52000,First,8.0,17.5,True,False,False,True
+Maruti Vitara Brezza ZDi,Pune,2016,21558,First,5.0,8.9,True,False,False,True
+Mini Cooper 5 DOOR D,Mumbai,2016,11000,First,5.0,29.5,True,False,True,False
+Tata Safari Storme VX Varicor 400,Jaipur,2017,37000,First,7.0,11.25,True,False,False,True
+Honda BR-V i-DTEC VX MT,Kochi,2017,32249,First,7.0,10.79,True,False,False,True
+Maruti Ignis 1.2 Alpha,Mumbai,2017,7000,First,5.0,5.7,False,True,False,True
+Maruti Alto K10 VXI,Bangalore,2011,64357,First,5.0,2.75,False,True,False,True
+Honda BRV i-VTEC V CVT,Mumbai,2017,18000,First,7.0,9.25,False,True,True,False
+Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,18108,First,5.0,11.31,True,False,False,True
+Nissan Sunny XV CVT,Kochi,2013,37199,First,5.0,5.43,False,True,True,False
+Toyota Innova Crysta 2.4 ZX MT,Bangalore,2017,64798,First,7.0,18.75,True,False,False,True
+Maruti Dzire AMT ZXI Plus,Hyderabad,2017,13000,First,5.0,8.5,False,True,True,False
+Hyundai Grand i10 1.2 CRDi Magna,Kolkata,2017,14000,First,5.0,4.9,True,False,False,True
+Honda City i-VTEC V,Delhi,2014,55818,Second,5.0,5.7,False,True,False,True
+Maruti Ertiga VDI,Ahmedabad,2017,63939,First,7.0,7.75,True,False,False,True
+Maruti Celerio VXI AMT,Delhi,2014,35214,Second,5.0,3.2,False,True,True,False
+Mini Cooper 5 DOOR D,Hyderabad,2014,60000,Second,5.0,23.5,True,False,True,False
+Honda City i-VTEC CVT VX,Bangalore,2015,18955,First,5.0,10.65,False,True,True,False
+Honda Jazz VX,Kochi,2018,20024,First,5.0,8.46,False,True,False,True
+Ford Figo Titanium Diesel,Kolkata,2015,72035,First,5.0,2.5,True,False,False,True
+Hyundai Creta 1.6 SX,Ahmedabad,2016,21000,First,5.0,10.9,False,True,False,True
+Maruti Wagon R VXI,Coimbatore,2015,72599,First,5.0,4.32,False,True,False,True
+Mahindra XUV500 W9 AT,Coimbatore,2019,19654,First,7.0,17.63,True,False,True,False
+Mercedes-Benz GLE 250d,Mumbai,2016,21000,First,5.0,56.0,True,False,True,False
+Honda Amaze VX Diesel,Hyderabad,2018,12000,First,5.0,8.5,True,False,False,True
+Maruti Alto K10 LXI,Pune,2014,49000,First,5.0,2.3,False,True,False,True
+Volkswagen Ameo 1.5 TDI Highline,Mumbai,2017,51000,First,5.0,6.45,True,False,False,True
+Mahindra Xylo H4,Chennai,2016,215000,First,7.0,7.5,True,False,False,True
+Toyota Innova Crysta 2.4 ZX MT,Pune,2017,43200,First,7.0,18.6,True,False,False,True
+Hyundai Xcent 1.2 CRDi S,Jaipur,2018,25302,First,5.0,5.9,True,False,False,True
+Toyota Innova Crysta 2.8 ZX AT,Kochi,2018,41736,First,7.0,19.92,True,False,True,False
+Renault KWID 1.0 RXT Optional,Jaipur,2017,63262,First,5.0,3.25,False,True,False,True
+Maruti Celerio VXI Optional AMT,Pune,2017,7500,First,5.0,5.0,False,True,True,False
+Maruti Dzire VXI,Kolkata,2011,46687,First,5.0,2.7,False,True,False,True
+Datsun redi-GO T Option,Bangalore,2016,20487,First,5.0,2.66,False,True,False,True
+Maruti Eeco 7 Seater Standard,Coimbatore,2012,56661,First,7.0,3.61,False,True,False,True
+Honda City i-VTEC CVT VX,Mumbai,2015,30000,First,5.0,8.65,False,True,True,False
+Jeep Compass 2.0 Limited 4X4,Mumbai,2017,52000,First,5.0,20.0,True,False,False,True
+Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,Kochi,2018,31427,First,5.0,59.72,True,False,True,False
+Maruti Baleno Alpha Diesel,Kolkata,2016,29000,First,5.0,6.5,True,False,False,True
+Mitsubishi Pajero Sport 4X4,Bangalore,2013,132000,First,7.0,12.49,True,False,False,True
+Toyota Innova Crysta 2.4 ZX MT,Coimbatore,2018,92056,First,7.0,18.39,True,False,False,True
+Honda Jazz VX Diesel,Mumbai,2016,38000,First,5.0,6.21,True,False,False,True
+Mercedes-Benz C-Class Progressive C 220d,Mumbai,2018,8682,First,5.0,39.5,True,False,True,False
+BMW 5 Series 520d Luxury Line,Mumbai,2012,61240,First,5.0,17.5,True,False,True,False
+Renault KWID RXT Optional,Hyderabad,2018,1900,First,5.0,4.45,False,True,False,True
+Ford Ecosport Signature Edition Diesel,Coimbatore,2019,23154,First,5.0,11.65,True,False,False,True
+Toyota Innova Crysta 2.4 GX MT,Chennai,2017,67489,First,7.0,16.5,True,False,False,True
+Volkswagen Vento 1.5 TDI Comfortline,Coimbatore,2014,56658,First,5.0,5.39,True,False,False,True
+Toyota Fortuner 2.8 4WD MT,Kochi,2013,105072,First,7.0,13.28,True,False,False,True
+Jeep Compass 1.4 Limited Option,Mumbai,2017,4000,First,5.0,17.75,False,True,True,False
+Audi A4 35 TDI Technology,Hyderabad,2015,45000,First,5.0,25.0,True,False,True,False
+Ford EcoSport 1.5 Petrol Titanium Plus AT,Coimbatore,2018,18385,First,5.0,12.41,False,True,True,False
+Maruti S-Cross Zeta DDiS 200 SH,Coimbatore,2016,74611,First,5.0,7.94,True,False,False,True
+Toyota Innova Crysta 2.8 ZX AT,Bangalore,2016,108000,First,7.0,20.5,True,False,True,False
+Maruti Ertiga VDI,Pune,2016,130000,First,7.0,7.0,True,False,False,True
+Maruti Vitara Brezza ZDi Plus,Kochi,2019,34688,First,5.0,10.49,True,False,False,True
+Tata Zest Revotron 1.2 XT,Mumbai,2014,40000,First,5.0,3.95,False,True,False,True
+Maruti Vitara Brezza VDi,Kolkata,2017,35000,First,5.0,6.5,True,False,False,True
+Mahindra XUV300 W8 Diesel,Chennai,2012,97000,First,5.0,7.25,True,False,False,True
+Hyundai Verna CRDi 1.6 SX Option,Kochi,2014,89614,First,5.0,6.01,True,False,False,True
+Tata Hexa XT,Delhi,2017,55000,First,7.0,12.0,True,False,False,True
+Tata Tiago 1.2 Revotron XZ,Coimbatore,2018,9565,First,5.0,5.88,False,True,False,True
+Mercedes-Benz E-Class E 220 d,Kochi,2018,20446,First,5.0,51.35,False,True,True,False
+Mini Cooper 5 DOOR D,Ahmedabad,2014,34000,First,5.0,22.0,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Magna,Delhi,2017,8471,First,5.0,5.0,False,True,False,True
+Toyota Innova Crysta 2.8 ZX AT,Hyderabad,2016,69000,First,7.0,19.75,True,False,True,False
+Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,30090,First,5.0,11.44,True,False,True,False
+Mahindra Bolero ZLX,Mumbai,2016,40448,First,7.0,3.5,True,False,False,True
+Maruti Vitara Brezza ZDi,Coimbatore,2018,64456,First,5.0,10.46,True,False,False,True
+Honda Amaze S Petrol,Kochi,2016,51672,First,5.0,5.68,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Asta,Hyderabad,2017,20000,First,5.0,5.98,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Magna,Kochi,2018,50234,First,5.0,4.77,False,True,False,True
+Hyundai Verna VTVT 1.6 AT SX Option,Mumbai,2015,40600,First,5.0,7.2,False,True,True,False
+Hyundai Verna CRDi 1.6 AT SX Option,Ahmedabad,2013,87000,First,5.0,5.9,True,False,True,False
+Volvo S60 D4 Momentum,Hyderabad,2015,51000,First,5.0,25.0,True,False,True,False
+BMW 3 Series 320d Luxury Line,Chennai,2012,65000,First,5.0,14.0,True,False,True,False
+Toyota Innova Crysta 2.4 VX MT,Hyderabad,2017,24393,First,7.0,20.4,True,False,False,True
+Volkswagen Polo 1.0 MPI Trendline,Hyderabad,2019,1000,First,5.0,5.68,False,True,False,True
+Mitsubishi Pajero Sport 4X4,Mumbai,2013,59000,First,7.0,12.75,True,False,False,True
+Toyota Corolla Altis 1.8 VL CVT,Delhi,2017,21000,First,5.0,18.0,False,True,True,False
+Toyota Corolla Altis 1.4 DG,Ahmedabad,2012,52000,First,5.0,6.5,True,False,False,True
+Jaguar XE 2.0L Diesel Prestige,Delhi,2018,1000,First,5.0,40.0,True,False,True,False
+Mahindra Xylo D4,Chennai,2016,85000,First,7.0,6.15,True,False,False,True
+Maruti Swift VDI,Kochi,2017,34613,First,5.0,6.24,True,False,False,True
+Hyundai Xcent 1.2 VTVT S,Bangalore,2014,54000,First,5.0,5.5,False,True,False,True
+Honda City i-VTEC CVT VX,Kochi,2018,22974,First,5.0,11.97,False,True,True,False
+Toyota Fortuner 2.8 2WD MT,Ahmedabad,2015,65012,First,7.0,18.9,True,False,False,True
+Maruti Eeco 7 Seater Standard,Hyderabad,2015,90413,First,7.0,2.95,False,True,False,True
+Maruti Swift LDI,Mumbai,2015,14000,First,5.0,5.25,True,False,False,True
+BMW 5 Series 520d Luxury Line,Coimbatore,2012,44450,First,5.0,24.68,True,False,True,False
+BMW X1 M Sport sDrive 20d,Mumbai,2016,31000,First,5.0,29.5,True,False,True,False
+Hyundai Verna CRDi 1.4 E,Chennai,2008,121097,Second,5.0,1.9,True,False,False,True
+Fiat Linea Classic Plus 1.3 Multijet,Jaipur,2013,86000,Second,5.0,2.5,True,False,False,True
+BMW 3 Series 320d Luxury Line,Kochi,2013,37613,First,5.0,13.95,True,False,True,False
+Maruti Ignis 1.2 Delta,Coimbatore,2019,16862,First,5.0,6.06,False,True,False,True
+Audi Q7 45 TDI Quattro Technology,Mumbai,2016,20002,First,7.0,67.0,True,False,True,False
+Maruti Alto K10 VXI,Kolkata,2018,2100,First,5.0,3.6,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Sportz AT,Coimbatore,2018,20667,First,5.0,7.55,False,True,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2019,18453,First,5.0,6.17,False,True,False,True
+Hyundai Verna CRDi 1.6 SX,Hyderabad,2008,96578,First,5.0,2.5,True,False,False,True
+Renault Duster 110PS Diesel RxZ AMT,Bangalore,2016,45000,First,5.0,11.5,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Magna AT,Bangalore,2018,3000,First,5.0,6.2,False,True,True,False
+Toyota Innova Crysta 2.8 ZX AT,Kolkata,2016,66618,First,7.0,15.49,True,False,True,False
+Tata Zest Revotron 1.2T XM,Mumbai,2016,43706,First,5.0,4.0,False,True,False,True
+Toyota Innova Crysta 2.4 VX MT,Kochi,2018,8899,First,7.0,19.92,True,False,False,True
+Ford EcoSport 1.5 Petrol Titanium,Pune,2018,17000,First,5.0,9.2,False,True,False,True
+Maruti Alto K10 VXI,Hyderabad,2016,10000,First,5.0,3.5,False,True,False,True
+Toyota Corolla Altis 1.8 G,Mumbai,2010,93000,First,5.0,4.5,False,True,False,True
+Hyundai Elantra 2.0 SX Option AT,Delhi,2017,9500,First,5.0,16.35,False,True,True,False
+Hyundai Creta 1.6 SX Automatic Diesel,Chennai,2016,55000,First,5.0,12.5,True,False,True,False
+Volkswagen Ameo 1.5 TDI Comfortline,Jaipur,2016,58095,First,5.0,5.8,True,False,False,True
+Tata Zest Revotron 1.2 XT,Kolkata,2015,7445,First,5.0,5.0,False,True,False,True
+Toyota Corolla Altis 1.8 VL CVT,Kochi,2018,28321,First,5.0,17.49,False,True,True,False
+Land Rover Range Rover Sport SE,Kochi,2019,26013,First,5.0,97.07,True,False,True,False
+Maruti Dzire AMT ZDI Plus,Hyderabad,2017,28226,First,5.0,9.15,True,False,True,False
+Ford EcoSport 1.5 Diesel Titanium Plus,Chennai,2016,29200,First,5.0,7.7,True,False,False,True
+Tata Zest Quadrajet 1.3 XT,Coimbatore,2018,38310,First,5.0,6.69,True,False,False,True
+Skoda Rapid 1.5 TDI AT Style,Kolkata,2017,31300,First,5.0,10.5,True,False,True,False
+Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,11241,First,8.0,22.55,True,False,False,True
+Mahindra Thar CRDe,Jaipur,2016,19000,First,6.0,9.25,True,False,False,True
+Ford Aspire Titanium Diesel,Coimbatore,2017,30279,First,5.0,7.29,True,False,False,True
+Mini Cooper 3 DOOR D,Mumbai,2016,20000,First,4.0,23.5,True,False,True,False
+Mahindra Verito 1.5 D4 BSIV,Pune,2015,90000,Second,5.0,3.1,True,False,False,True
+Volkswagen Ameo 1.2 MPI Highline,Coimbatore,2017,22389,First,5.0,7.23,False,True,False,True
+Land Rover Discovery Sport TD4 HSE 7S,Mumbai,2017,40000,First,7.0,41.5,True,False,True,False
+Volkswagen Tiguan 2.0 TDI Highline,Jaipur,2017,50510,First,5.0,24.9,True,False,True,False
+Audi Q7 45 TDI Quattro Premium Plus,Kochi,2019,6773,First,7.0,72.94,True,False,True,False
+Mahindra Bolero ZLX,Jaipur,2013,63000,First,7.0,5.5,True,False,False,True
+BMW X1 M Sport sDrive 20d,Kochi,2017,32838,First,5.0,30.29,True,False,True,False
+Jaguar XE 2.0L Diesel Prestige,Hyderabad,2017,4000,First,5.0,38.0,True,False,True,False
+Maruti Wagon R LXI,Delhi,2012,45631,Second,5.0,2.74,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Magna,Delhi,2017,12248,First,5.0,4.9,False,True,False,True
+Maruti Alto K10 VXI,Coimbatore,2011,48624,First,5.0,3.22,False,True,False,True
+BMW 5 Series 520d Luxury Line,Kochi,2018,32586,First,5.0,37.3,True,False,True,False
+Mercedes-Benz GLE 350d,Coimbatore,2018,40129,First,5.0,70.8,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2018,10393,First,5.0,6.03,False,True,False,True
+Honda Amaze V CVT Petrol,Pune,2018,1700,First,5.0,7.8,False,True,True,False
+Audi Q3 35 TDI Quattro Premium Plus,Coimbatore,2016,58661,First,5.0,28.03,True,False,True,False
+Mahindra Xylo D4,Hyderabad,2015,169000,First,7.0,5.0,True,False,False,True
+Maruti Ciaz Zeta,Mumbai,2017,5500,First,5.0,8.2,False,True,False,True
+Maruti Wagon R LXI,Ahmedabad,2010,21002,First,5.0,2.75,False,True,False,True
+Maruti Eeco 7 Seater Standard,Coimbatore,2017,28371,First,7.0,4.74,False,True,False,True
+Renault KWID Climber 1.0 MT,Delhi,2017,15000,First,5.0,4.25,False,True,False,True
+Honda WRV i-VTEC VX,Kochi,2018,15135,First,5.0,9.29,False,True,False,True
+Maruti Wagon R VXI AMT,Coimbatore,2017,37832,First,5.0,5.23,False,True,True,False
+Hyundai Grand i10 1.2 Kappa Asta,Coimbatore,2016,43041,First,5.0,6.01,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Magna,Kolkata,2017,31184,First,5.0,5.0,False,True,False,True
+Maruti Dzire AMT ZDI Plus,Pune,2017,41747,First,5.0,9.0,True,False,True,False
+Toyota Etios Liva 1.2 VX Dual Tone,Coimbatore,2019,20877,First,5.0,7.27,False,True,False,True
+Maruti Swift VXI,Mumbai,2016,23555,First,5.0,5.1,False,True,False,True
+Volkswagen Polo GT TSI,Mumbai,2016,28000,First,5.0,7.25,False,True,True,False
+Tata Bolt Quadrajet XE,Hyderabad,2017,40000,First,5.0,5.25,True,False,False,True
+Hyundai Elantra 1.6 SX Option AT,Ahmedabad,2014,49000,First,5.0,8.9,True,False,True,False
+Jeep Compass 2.0 Limited Option Black,Mumbai,2017,7000,First,5.0,17.45,True,False,False,True
+Toyota Corolla Altis 1.8 GL,Kochi,2012,83184,First,5.0,6.22,False,True,False,True
+Mercedes-Benz GLE 350d,Coimbatore,2017,33552,First,5.0,64.87,True,False,True,False
+Mercedes-Benz A Class A180 Sport,Mumbai,2016,17000,First,5.0,17.25,False,True,True,False
+Hyundai Grand i10 1.2 Kappa Magna,Kochi,2018,46493,First,5.0,5.53,False,True,False,True
+BMW 3 Series 320d,Ahmedabad,2011,100000,Second,5.0,10.9,True,False,True,False
+Maruti Eeco 7 Seater Standard,Mumbai,2014,34669,First,7.0,2.9,False,True,False,True
+Toyota Innova Crysta 2.8 GX AT,Kochi,2019,10601,First,7.0,19.65,True,False,True,False
+Mercedes-Benz GLS 350d Grand Edition,Delhi,2018,6000,First,7.0,79.0,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Delhi,2018,9434,First,5.0,5.75,False,True,False,True
+Volkswagen Ameo 1.2 MPI Highline,Coimbatore,2018,35569,First,5.0,7.27,False,True,False,True
+Toyota Fortuner 2.8 2WD AT,Ahmedabad,2017,15000,First,7.0,30.0,True,False,True,False
+Maruti Dzire VDI,Delhi,2016,45376,First,5.0,5.75,True,False,False,True
+Ford EcoSport 1.5 Diesel Titanium Plus,Kochi,2017,78526,First,5.0,8.09,True,False,False,True
+BMW X1 sDrive 20d xLine,Coimbatore,2015,42265,Second,5.0,22.24,True,False,True,False
+Ford EcoSport 1.5 Diesel Titanium,Mumbai,2017,26000,First,5.0,8.99,True,False,False,True
+Maruti Dzire ZDI Plus,Jaipur,2017,24000,First,5.0,8.2,True,False,False,True
+Hyundai Verna VTVT 1.6 SX Option,Delhi,2013,57478,Second,5.0,5.25,False,True,False,True
+Maruti Vitara Brezza ZDi,Hyderabad,2016,41372,First,5.0,9.3,True,False,False,True
+Mercedes-Benz GLA Class 200 d Sport,Pune,2017,35000,First,5.0,23.5,True,False,True,False
+Maruti Dzire VDI,Mumbai,2012,74000,Second,5.0,4.25,True,False,False,True
+Jeep Compass 2.0 Longitude,Kochi,2018,28937,First,5.0,17.02,True,False,False,True
+Toyota Corolla Altis 1.4 DG,Coimbatore,2013,63854,First,5.0,7.12,True,False,False,True
+Maruti Vitara Brezza ZDi Plus AMT Dual Tone,Chennai,2018,3000,First,5.0,11.25,True,False,True,False
+Hyundai Xcent 1.2 VTVT SX,Mumbai,2014,64241,First,5.0,3.67,False,True,False,True
+BMW X1 sDrive 20d xLine,Bangalore,2016,28143,First,5.0,28.5,True,False,True,False
+Toyota Innova Crysta 2.4 VX MT,Hyderabad,2017,67000,First,7.0,16.5,True,False,False,True
+Hyundai Grand i10 1.2 Kappa Magna AT,Kochi,2018,5354,First,5.0,6.76,False,True,True,False
+Volkswagen Polo 1.0 MPI Comfortline,Chennai,2016,42000,Second,5.0,5.5,False,True,False,True
+Maruti Eeco 7 Seater Standard,Coimbatore,2013,54885,First,7.0,3.75,False,True,False,True
+Toyota Innova Crysta 2.4 VX MT,Mumbai,2016,25121,First,7.0,17.11,True,False,False,True
+Mahindra Bolero SLE,Hyderabad,2012,75000,First,7.0,4.3,True,False,False,True
+Maruti Ignis 1.2 Alpha,Mumbai,2017,1000,First,5.0,6.36,False,True,False,True
+BMW 7 Series 730Ld Eminence,Kochi,2015,29966,Second,5.0,43.6,True,False,True,False
+Jeep Compass 2.0 Longitude,Coimbatore,2018,33218,First,5.0,19.05,True,False,False,True
+Mini Cooper 5 DOOR D,Hyderabad,2017,2000,First,5.0,34.0,True,False,True,False
+Tata Zest Revotron 1.2T XMS,Chennai,2015,40000,First,5.0,4.0,False,True,False,True
+Ford Aspire Titanium Plus Diesel,Kolkata,2015,2800,First,5.0,8.41,True,False,False,True
+Hyundai Grand i10 1.2 Kappa Asta,Coimbatore,2016,37429,First,5.0,5.89,False,True,False,True
+Honda City i-VTEC V,Delhi,2011,67031,First,5.0,4.0,False,True,False,True
+Maruti Celerio VXI AMT,Mumbai,2016,47691,First,5.0,3.94,False,True,True,False
+Maruti Dzire VDI,Kolkata,2015,28193,First,5.0,5.25,True,False,False,True
+Mercedes-Benz SLC 43 AMG,Coimbatore,2019,2526,First,2.0,83.96,False,True,True,False
+Mercedes-Benz E-Class E 220 d,Hyderabad,2013,85000,First,5.0,21.0,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Ahmedabad,2015,20780,First,5.0,4.3,False,True,False,True
+Mercedes-Benz GLE 250d,Kochi,2017,25601,First,5.0,56.73,True,False,True,False
+Ford Freestyle Titanium Petrol,Mumbai,2007,1261,First,5.0,6.0,False,True,False,True
+Hyundai Elite i20 Asta Option,Coimbatore,2017,59450,First,5.0,7.53,False,True,False,True
+Maruti Baleno Delta,Mumbai,2016,12573,First,5.0,5.8,False,True,False,True
+Toyota Fortuner 2.8 2WD AT,Pune,2017,29000,First,7.0,31.0,True,False,True,False
+Maruti Ertiga ZDI,Delhi,2013,68000,First,7.0,4.85,True,False,False,True
+Maruti Swift VDI,Hyderabad,2013,84000,First,5.0,5.65,True,False,False,True
+Hyundai Creta 1.6 SX Option,Delhi,2016,24347,First,5.0,11.0,False,True,False,True
+Honda City i-VTEC CVT VX,Mumbai,2017,17000,First,5.0,11.6,False,True,True,False
+Honda Brio 1.2 VX MT,Kochi,2014,41460,First,5.0,3.95,False,True,False,True
+Land Rover Discovery HSE Luxury 3.0 TD6,Mumbai,2017,35000,First,7.0,41.6,True,False,True,False
+Toyota Fortuner 2.8 4WD MT,Bangalore,2015,150386,First,7.0,23.0,True,False,False,True
+Maruti Vitara Brezza ZDi Plus,Ahmedabad,2017,80000,First,5.0,8.0,True,False,False,True
+Hyundai Tucson 2.0 Dual VTVT 2WD AT GL,Mumbai,2016,13000,First,5.0,17.75,False,True,True,False
+Maruti Wagon R VXI,Kolkata,2016,16956,First,5.0,3.6,False,True,False,True
+Maruti Wagon R VXI,Mumbai,2010,38000,Second,5.0,1.75,False,True,False,True
+Honda Brio 1.2 VX AT,Mumbai,2017,20000,First,5.0,5.99,False,True,True,False
+Toyota Etios Cross 1.4L GD,Kochi,2016,36681,First,5.0,6.71,True,False,False,True
+Honda City i-VTEC CVT ZX,Coimbatore,2018,20300,First,5.0,14.21,False,True,True,False
+Maruti Celerio ZXI MT,Kochi,2017,21799,First,5.0,5.11,False,True,False,True
+Toyota Innova Crysta 2.8 ZX AT,Hyderabad,2017,35358,First,7.0,22.99,True,False,True,False
+Tata Tiago 1.2 Revotron XT,Jaipur,2016,42700,First,5.0,3.6,False,True,False,True
+Toyota Fortuner 2.8 4WD MT,Hyderabad,2010,110000,First,7.0,13.7,True,False,False,True
+Maruti Wagon R VXI 1.2,Mumbai,2015,55000,First,5.0,3.1,False,True,False,True
+Honda City i-DTEC ZX,Hyderabad,2017,46000,First,5.0,12.9,True,False,False,True
+BMW 5 Series 520d Luxury Line,Ahmedabad,2012,95000,Second,5.0,17.5,True,False,True,False
+Ford EcoSport 1.5 Diesel Titanium,Delhi,2017,39000,First,5.0,8.45,True,False,False,True
+Toyota Fortuner 2.8 4WD MT,Mumbai,2010,140000,First,7.0,10.75,True,False,False,True
+Maruti Swift VDI,Kochi,2016,62192,First,5.0,5.22,True,False,False,True
+Maruti Ciaz Alpha,Kochi,2018,38394,First,5.0,9.18,False,True,False,True
+Hyundai Elantra 2.0 SX Option AT,Delhi,2016,28000,First,5.0,13.9,False,True,True,False
+Volkswagen Vento 1.5 TDI Trendline,Mumbai,2011,47000,First,5.0,3.25,True,False,False,True
+Mercedes-Benz E-Class E 350 d,Coimbatore,2019,9312,First,5.0,78.8,True,False,True,False
+Hyundai Elantra 2.0 SX Option AT,Coimbatore,2015,58239,First,5.0,9.69,False,True,True,False
+Nissan Terrano XL D Option,Mumbai,2014,51000,First,5.0,5.65,True,False,False,True
+Toyota Fortuner 2.8 2WD AT,Ahmedabad,2016,88008,Second,7.0,22.5,True,False,True,False
+Mercedes-Benz GLA Class 200 d Sport,Mumbai,2018,10000,First,5.0,28.9,True,False,True,False
+Mini Cooper Convertible S,Chennai,2012,17000,Second,4.0,22.0,False,True,True,False
+Mini Cooper 3 DOOR S,Mumbai,2013,21000,First,4.0,21.5,False,True,True,False
+Skoda Rapid 1.6 MPI AT Ambition,Mumbai,2017,32000,First,5.0,8.11,False,True,True,False
+Maruti Ertiga VDI,Delhi,2017,65000,First,7.0,7.65,True,False,False,True
+Ford EcoSport 1.5 Petrol Trend,Kolkata,2016,21460,First,5.0,6.0,False,True,False,True
+Honda Jazz V CVT,Hyderabad,2015,33000,First,5.0,7.25,False,True,True,False
+Maruti Vitara Brezza ZDi Plus,Jaipur,2017,48324,First,5.0,9.0,True,False,False,True
+Hyundai Grand i10 1.2 CRDi Sportz,Kochi,2017,20773,First,5.0,5.92,True,False,False,True
+Volkswagen Polo 1.5 TDI Highline,Kolkata,2016,22000,First,5.0,6.29,True,False,False,True
+BMW 3 Series 320d,Mumbai,2013,25000,First,5.0,17.99,True,False,True,False
+Mahindra Xylo H4,Chennai,2015,82000,Second,7.0,4.85,True,False,False,True
+Maruti Dzire VDI,Hyderabad,2011,110000,First,5.0,4.0,True,False,False,True
+Volkswagen Polo 1.5 TDI Highline,Delhi,2012,68038,First,5.0,3.6,True,False,False,True
+BMW 5 Series 520d Luxury Line,Ahmedabad,2013,55000,First,5.0,21.75,True,False,True,False
+Mercedes-Benz GLC 220d 4MATIC Sport,Mumbai,2017,25000,First,5.0,45.0,True,False,True,False
+Maruti Alto K10 VXI,Coimbatore,2011,46808,Second,5.0,3.19,False,True,False,True
+Hyundai Xcent 1.2 VTVT S,Coimbatore,2015,65743,First,5.0,6.2,False,True,False,True
+Hyundai Creta 1.6 SX Option,Mumbai,2016,29477,First,5.0,10.25,False,True,False,True
+Toyota Fortuner 2.8 2WD AT,Delhi,2017,40000,First,7.0,30.0,True,False,True,False
+Ford EcoSport 1.5 Diesel Titanium,Mumbai,2017,30000,First,5.0,8.99,True,False,False,True
+Tata Zest Revotron 1.2T XE,Delhi,2017,47000,Second,5.0,4.5,False,True,False,True
+Maruti Vitara Brezza ZDi Plus Dual Tone,Kochi,2017,45362,First,5.0,9.38,True,False,False,True
+Tata Hexa XTA,Coimbatore,2019,14233,First,7.0,17.85,True,False,True,False
+Skoda Superb Style 1.8 TSI AT,Mumbai,2010,62004,Second,5.0,3.75,False,True,True,False
+Volkswagen Vento 1.5 TDI Highline AT,Mumbai,2016,25500,First,5.0,8.95,True,False,True,False
+Mercedes-Benz E-Class E 220 d,Mumbai,2018,11000,First,5.0,56.5,True,False,True,False
+BMW 3 Series 320d Luxury Line,Mumbai,2014,18600,Second,5.0,21.0,True,False,True,False
+Land Rover Discovery SE 3.0 TD6,Delhi,2016,59000,First,7.0,36.75,True,False,True,False
+Mercedes-Benz CLA 200 CDI Sport,Coimbatore,2017,20969,First,5.0,27.87,True,False,True,False
+Maruti Vitara Brezza ZDi,Kolkata,2018,2900,First,5.0,8.75,True,False,False,True
+Skoda Rapid 1.5 TDI Ambition,Coimbatore,2018,5833,First,5.0,11.92,True,False,False,True
+Mahindra NuvoSport N8,Coimbatore,2017,37712,First,7.0,7.57,True,False,False,True
+Datsun redi-GO T Option,Kochi,2018,30953,First,5.0,3.48,False,True,False,True
+Jeep Compass 2.0 Limited 4X4,Coimbatore,2018,48188,First,5.0,21.69,True,False,False,True
+Toyota Innova Crysta 2.8 ZX AT,Coimbatore,2017,65367,First,7.0,20.14,True,False,True,False
+Maruti Wagon R VXI AMT,Mumbai,2016,8000,First,5.0,4.15,False,True,True,False
+Maruti Alto K10 VXI,Mumbai,2016,13198,First,5.0,3.15,False,True,False,True
+Tata Tiago AMT 1.2 Revotron XZA,Coimbatore,2019,15379,First,5.0,6.97,False,True,True,False
+Mini Cooper Convertible S,Mumbai,2016,15000,First,4.0,35.0,False,True,True,False
+Hyundai Verna CRDi 1.6 SX Option,Pune,2017,50000,First,5.0,11.5,True,False,False,True
+Renault Duster 85PS Diesel RxE,Pune,2016,54000,First,5.0,6.5,True,False,False,True
+Honda BRV i-VTEC V MT,Pune,2016,9200,First,7.0,8.0,False,True,False,True
+Honda Amaze S Diesel,Hyderabad,2015,29000,First,5.0,5.99,True,False,False,True
+Maruti Alto K10 VXI,Kochi,2018,46805,First,5.0,3.63,False,True,False,True
+Tata Zest Revotron 1.2T XE,Mumbai,2017,100000,First,5.0,4.25,False,True,False,True
+Maruti Wagon R LXI,Kochi,2011,15466,First,5.0,3.36,False,True,False,True
+BMW 3 Series 320d,Kolkata,2011,70000,First,5.0,10.3,True,False,True,False
+Maruti Wagon R VXI,Kochi,2014,41994,First,5.0,3.41,False,True,False,True
+Audi Q3 35 TDI Quattro Premium Plus,Bangalore,2015,51000,First,5.0,27.5,True,False,True,False
+Maruti Wagon R VXI 1.2,Jaipur,2015,64876,First,5.0,3.5,False,True,False,True
+Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,25299,First,5.0,10.34,True,False,False,True
+Honda Amaze V Petrol,Kochi,2016,40866,First,5.0,5.47,False,True,False,True
+Mini Cooper Convertible S,Kochi,2017,20469,First,4.0,35.98,False,True,True,False
+Volkswagen Ameo 1.5 TDI Highline,Kochi,2018,31426,First,5.0,7.9,True,False,False,True
+Maruti Baleno Alpha CVT,Kochi,2019,13574,First,5.0,9.51,False,True,True,False
+BMW 5 Series 520d Luxury Line,Ahmedabad,2013,90000,First,5.0,19.5,True,False,True,False
+Maruti Vitara Brezza ZDi Plus,Kochi,2017,38426,First,5.0,9.13,True,False,False,True
+Maruti Eeco 7 Seater Standard,Pune,2011,45000,First,7.0,2.25,False,True,False,True
+Maruti Wagon R LXI,Mumbai,2010,37822,First,5.0,2.35,False,True,False,True
+Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2017,72202,First,8.0,17.92,True,False,False,True
+Mercedes-Benz GLE 350d,Coimbatore,2018,30706,First,5.0,59.29,True,False,True,False
+Maruti Baleno Alpha,Mumbai,2016,12208,First,5.0,6.75,False,True,False,True
+Volkswagen Polo GT TSI,Mumbai,2017,27853,First,5.0,8.25,False,True,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2018,20689,First,5.0,6.07,False,True,False,True
+Renault KWID 1.0 RXT Optional AMT,Coimbatore,2017,53285,First,5.0,4.28,False,True,True,False
+Mercedes-Benz GLE 350d,Mumbai,2017,19863,First,5.0,64.95,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Mumbai,2018,3958,First,5.0,5.55,False,True,False,True
+BMW X3 xDrive 20d Luxury Line,Hyderabad,2009,58000,First,5.0,17.98,True,False,True,False
+Renault KWID 1.0 RXT Optional,Kochi,2018,18335,First,5.0,4.5,False,True,False,True
+Volkswagen Polo GT TSI,Mumbai,2017,25000,First,5.0,7.75,False,True,True,False
+Toyota Fortuner 2.8 2WD AT,Kochi,2019,21719,First,7.0,33.13,True,False,True,False
+Renault KWID Climber 1.0 MT,Hyderabad,2018,4126,First,5.0,4.8,False,True,False,True
+Tata Bolt Quadrajet XM,Hyderabad,2017,98500,First,5.0,6.0,True,False,False,True
+BMW 3 Series 320d,Coimbatore,2009,103905,First,5.0,9.92,True,False,True,False
+Audi A6 35 TDI Matrix,Delhi,2014,56000,First,5.0,24.0,True,False,True,False
+Volkswagen Vento 1.5 TDI Highline AT,Kochi,2017,33550,First,5.0,9.6,True,False,True,False
+Audi A6 35 TDI Matrix,Hyderabad,2014,62000,First,5.0,25.0,True,False,True,False
+Ford EcoSport 1.5 Petrol Titanium Plus AT,Coimbatore,2018,27852,First,5.0,10.44,False,True,True,False
+Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,Mumbai,2018,14000,First,5.0,9.9,True,False,False,True
+Isuzu MUX 4WD,Jaipur,2017,34429,First,7.0,20.0,True,False,True,False
+Toyota Corolla Altis 1.4 DG,Ahmedabad,2012,52100,First,5.0,6.5,True,False,False,True
+Hyundai Grand i10 1.2 Kappa Sportz,Jaipur,2018,10000,First,5.0,5.85,False,True,False,True
+Jeep Compass 2.0 Limited 4X4,Coimbatore,2019,6261,First,5.0,23.91,True,False,False,True
+Maruti Ignis 1.2 AMT Alpha,Coimbatore,2019,3906,First,5.0,7.36,False,True,True,False
+Toyota Innova Crysta 2.4 VX MT,Mumbai,2017,38000,First,7.0,17.65,True,False,False,True
+Toyota Platinum Etios 1.4 GXD,Hyderabad,2015,150000,First,5.0,6.0,True,False,False,True
+Toyota Innova Crysta 2.8 GX AT 8S,Delhi,2017,18000,First,8.0,18.25,True,False,True,False
+Nissan Micra Active XV,Ahmedabad,2016,41000,First,5.0,4.25,False,True,False,True
+Jeep Compass 2.0 Sport,Hyderabad,2017,37000,First,5.0,16.9,True,False,False,True
+Tata Zest Quadrajet 1.3 75PS XM,Pune,2017,72000,First,5.0,5.0,True,False,False,True
+Maruti Dzire VXI,Hyderabad,2013,34900,First,5.0,5.49,False,True,False,True
+Maruti Wagon R LXI,Mumbai,2014,25422,First,5.0,3.25,False,True,False,True
+Maruti Ertiga VDI,Mumbai,2018,14000,First,7.0,9.25,True,False,False,True
+Mahindra KUV 100 G80 K6 Plus 5Str,Kolkata,2017,43000,First,5.0,4.5,False,True,False,True
+Maruti Swift VXI,Pune,2010,68000,First,5.0,2.8,False,True,False,True
+Jeep Compass 2.0 Limited,Pune,2018,16039,First,5.0,18.5,True,False,False,True
+Maruti Swift LDI,Hyderabad,2016,52000,First,5.0,5.95,True,False,False,True
+Maruti Swift VDI,Kochi,2015,53500,First,5.0,5.36,True,False,False,True
+Hyundai Xcent 1.2 CRDi S,Mumbai,2016,50000,First,5.0,3.5,True,False,False,True
+BMW 3 Series 320d Luxury Line,Delhi,2019,87000,First,5.0,6.67,True,False,True,False
+Mahindra Xylo H4,Coimbatore,2016,93166,Second,7.0,5.85,True,False,False,True
+Toyota Corolla Altis 1.8 VL CVT,Kolkata,2018,5000,First,5.0,16.95,False,True,True,False
+Skoda Rapid 1.6 MPI Ambition,Mumbai,2015,39822,First,5.0,4.68,False,True,False,True
+Renault KWID RXL,Kochi,2017,24214,Second,5.0,3.46,False,True,False,True
+BMW 3 Series 320d,Coimbatore,2013,85846,First,5.0,13.08,True,False,True,False
+Maruti Vitara Brezza ZDi Plus Dual Tone,Kochi,2017,35981,First,5.0,9.51,True,False,False,True
+Porsche Cayenne Base,Kochi,2019,14298,First,5.0,2.02,False,True,True,False
+Honda Brio 1.2 S MT,Mumbai,2015,22000,First,5.0,3.95,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Magna AT,Coimbatore,2019,12153,First,5.0,6.84,False,True,True,False
+Audi A4 30 TFSI Premium Plus,Kochi,2017,61221,First,5.0,21.73,False,True,True,False
+Mini Cooper 5 DOOR D,Kochi,2019,14857,First,5.0,31.55,True,False,True,False
+Ford Endeavour Titanium 4X2,Coimbatore,2019,14648,First,7.0,27.36,True,False,False,True
+Tata Zest Revotron 1.2T XM,Kochi,2017,48198,First,5.0,4.65,False,True,False,True
+Maruti Dzire LDI,Pune,2012,150000,Third,5.0,2.25,True,False,False,True
+Maruti Wagon R VXI,Chennai,2014,52000,First,5.0,3.45,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Asta,Coimbatore,2017,62788,First,5.0,6.08,False,True,False,True
+Toyota Innova Crysta 2.8 GX AT,Pune,2018,20300,First,7.0,18.0,True,False,True,False
+Mini Cooper 3 DOOR D,Kochi,2015,27641,Second,4.0,24.77,True,False,True,False
+Mahindra XUV500 W7,Delhi,2018,9000,First,7.0,13.0,True,False,False,True
+BMW 7 Series 730Ld Design Pure Excellence CBU,Kolkata,2012,41100,First,5.0,26.5,True,False,True,False
+Honda City i-VTEC CVT VX,Mumbai,2015,19000,First,5.0,8.95,False,True,True,False
+Honda City i-VTEC CVT VX,Jaipur,2017,35000,First,5.0,7.7,False,True,True,False
+Honda City i-VTEC V,Mumbai,2017,11000,First,5.0,8.5,False,True,False,True
+Nissan Micra XV D,Chennai,2012,93450,Second,5.0,2.5,True,False,False,True
+Maruti Dzire ZDI,Ahmedabad,2013,56454,First,5.0,4.65,True,False,False,True
+Jeep Compass 2.0 Limited Option 4X4,Kolkata,2017,15050,First,5.0,17.5,True,False,False,True
+Ford Freestyle Titanium Plus Petrol,Kolkata,2018,8896,First,5.0,7.34,False,True,False,True
+Honda Jazz V,Mumbai,2016,31378,First,5.0,5.9,False,True,False,True
+Audi Q3 30 TDI Premium FWD,Mumbai,2017,31000,First,5.0,27.0,True,False,True,False
+Mercedes-Benz E-Class E400 Cabriolet,Kolkata,2015,7501,First,4.0,48.0,False,True,True,False
+Mercedes-Benz GLE 350d,Coimbatore,2018,29277,First,5.0,59.65,True,False,True,False
+Maruti Baleno Delta CVT,Coimbatore,2018,34630,First,5.0,7.29,False,True,True,False
+Mini Cooper 3 DOOR D,Kochi,2016,32298,First,4.0,23.8,True,False,True,False
+Ford Aspire Ambiente Diesel,Kolkata,2018,17000,First,5.0,5.65,True,False,False,True
+Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,29836,First,5.0,25.75,True,False,True,False
+Toyota Etios Liva 1.4 GD,Delhi,2013,84000,First,5.0,3.85,True,False,False,True
+Maruti Celerio VXI AMT,Chennai,2015,55000,First,5.0,3.5,False,True,True,False
+Honda City i-VTEC VX,Mumbai,2017,7500,First,5.0,11.15,False,True,False,True
+Renault Duster 110PS Diesel RxZ AMT,Jaipur,2016,68163,First,5.0,8.9,True,False,True,False
+Maruti Vitara Brezza LDi,Kochi,2017,35384,First,5.0,8.61,True,False,False,True
+Ford EcoSport 1.5 Diesel Titanium,Coimbatore,2018,32189,First,5.0,9.25,True,False,False,True
+BMW 3 Series 320d,Mumbai,2010,67000,Second,5.0,9.25,True,False,True,False
+Maruti Vitara Brezza ZDi Plus,Coimbatore,2018,52380,First,5.0,10.15,True,False,False,True
+Toyota Etios Liva 1.2 G,Chennai,2011,42000,Second,5.0,3.75,False,True,False,True
+Honda WRV i-VTEC VX,Ahmedabad,2017,32248,First,5.0,8.25,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Asta,Bangalore,2014,61325,First,5.0,4.4,False,True,False,True
+Honda Amaze S Petrol,Jaipur,2014,69000,First,5.0,4.5,False,True,False,True
+Volkswagen Vento 1.5 TDI Highline AT,Hyderabad,2016,45492,First,5.0,10.3,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Coimbatore,2014,33496,First,5.0,5.5,False,True,False,True
+BMW 5 Series 520d Luxury Line,Delhi,2013,65000,First,5.0,21.26,True,False,True,False
+Toyota Corolla Altis 1.8 G,Bangalore,2016,16471,Second,5.0,11.5,False,True,False,True
+Honda City i-VTEC CVT VX,Pune,2018,4500,First,5.0,12.5,False,True,True,False
+Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,42646,First,5.0,12.46,True,False,True,False
+Maruti Swift VDI,Jaipur,2015,63310,First,5.0,5.1,True,False,False,True
+Honda Jazz V,Hyderabad,2015,37000,First,5.0,6.3,False,True,False,True
+Nissan Terrano XL D Option,Hyderabad,2013,65280,First,5.0,5.8,True,False,False,True
+Jeep Compass 2.0 Limited Option 4X4,Jaipur,2017,45000,First,5.0,20.0,True,False,False,True
+Honda City i-DTEC ZX,Pune,2017,42000,First,5.0,12.0,True,False,False,True
+Hyundai Grand i10 1.2 CRDi Sportz,Chennai,2018,48000,First,5.0,5.95,True,False,False,True
+Toyota Innova Crysta 2.4 VX MT,Coimbatore,2019,33598,First,7.0,22.2,True,False,False,True
+Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,13414,First,5.0,30.77,True,False,True,False
+Mahindra KUV 100 G80 K8,Jaipur,2018,15900,First,6.0,6.25,False,True,False,True
+Audi A6 35 TDI Matrix,Coimbatore,2017,36824,First,5.0,39.84,True,False,True,False
+Maruti Baleno Zeta CVT,Kolkata,2016,20000,First,5.0,5.74,False,True,True,False
+BMW 3 Series Luxury Line,Ahmedabad,2016,27000,First,5.0,35.0,True,False,True,False
+Maruti Dzire AMT ZDI Plus,Chennai,2017,19000,First,5.0,8.9,True,False,True,False
+Jeep Compass 2.0 Longitude,Kochi,2018,42203,First,5.0,19.46,True,False,False,True
+Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,Kolkata,2018,4900,First,5.0,9.22,True,False,False,True
+Renault KWID RXT Optional,Pune,2018,5000,First,5.0,3.5,False,True,False,True
+Toyota Fortuner 2.8 4WD MT,Kochi,2011,169006,First,7.0,10.64,True,False,False,True
+Honda Jazz V CVT,Mumbai,2017,17978,First,5.0,6.95,False,True,True,False
+Maruti S-Cross Alpha DDiS 200 SH,Kolkata,2016,45296,First,5.0,6.99,True,False,False,True
+Tata Hexa XT,Pune,2017,39800,First,7.0,14.25,True,False,False,True
+Maruti Eeco 7 Seater Standard,Coimbatore,2016,42225,First,7.0,4.3,False,True,False,True
+Maruti Ignis 1.2 Delta,Kochi,2019,12076,First,5.0,5.5,False,True,False,True
+Volkswagen Polo GT TSI,Coimbatore,2017,50534,First,5.0,8.27,False,True,True,False
+BMW 5 Series 520d Luxury Line,Ahmedabad,2010,46000,First,5.0,16.5,True,False,True,False
+Mercedes-Benz GLC 220d 4MATIC Style,Coimbatore,2019,29311,First,5.0,50.97,True,False,True,False
+BMW 3 Series Luxury Line,Mumbai,2016,31000,First,5.0,29.95,True,False,True,False
+Ford EcoSport 1.5 Petrol Titanium Plus AT,Pune,2017,14000,First,5.0,9.99,False,True,True,False
+Maruti Vitara Brezza ZDi Plus Dual Tone,Ahmedabad,2017,33000,First,5.0,9.25,True,False,False,True
+Nissan Terrano XV D Pre,Mumbai,2013,60000,Second,5.0,5.45,True,False,False,True
+Maruti Celerio ZXI AMT,Coimbatore,2017,35225,First,5.0,5.25,False,True,True,False
+BMW 3 Series 320d,Hyderabad,2010,80000,First,5.0,14.2,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Coimbatore,2016,29091,First,5.0,4.87,False,True,False,True
+Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,26927,First,5.0,11.39,True,False,False,True
+Maruti Vitara Brezza ZDi,Delhi,2016,35299,First,5.0,8.0,True,False,False,True
+Land Rover Range Rover Sport HSE,Kochi,2015,38467,First,5.0,70.66,True,False,True,False
+Maruti Alto K10 VXI,Mumbai,2017,12000,First,5.0,3.25,False,True,False,True
+Maruti Ciaz Zeta,Kochi,2018,10575,First,5.0,9.18,False,True,False,True
+Maruti Wagon R VXI 1.2,Kochi,2015,49818,First,5.0,4.11,False,True,False,True
+Toyota Innova Crysta 2.8 ZX AT,Kochi,2017,26023,First,7.0,19.97,True,False,True,False
+Maruti Swift VDI,Pune,2014,115000,First,5.0,4.5,True,False,False,True
+Tata Zest Quadrajet 1.3 XT,Bangalore,2017,27768,First,5.0,5.85,True,False,False,True
+Maruti Alto K10 VXI,Chennai,2011,28300,First,5.0,2.15,False,True,False,True
+Audi A6 35 TFSI Matrix,Delhi,2018,22000,First,5.0,41.5,False,True,True,False
+Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2018,28741,First,5.0,11.0,True,False,False,True
+Hyundai Verna VTVT 1.6 SX,Kolkata,2018,5000,First,5.0,8.7,False,True,False,True
+Maruti Ertiga ZDI Plus,Hyderabad,2016,42000,First,7.0,9.9,True,False,False,True
+Hyundai Verna VTVT 1.6 SX,Kochi,2012,32542,First,5.0,5.77,False,True,False,True
+BMW 3 Series 320d,Kochi,2012,55598,First,5.0,11.5,True,False,True,False
+Maruti Dzire VDI,Jaipur,2013,77084,First,5.0,4.95,True,False,False,True
+Toyota Innova Crysta 2.8 GX AT 8S,Chennai,2016,40000,First,8.0,16.45,True,False,True,False
+Maruti Baleno Alpha Diesel,Mumbai,2018,2000,First,5.0,8.7,True,False,False,True
+Skoda Superb Style 1.8 TSI AT,Mumbai,2016,14500,First,5.0,20.75,False,True,True,False
+Maruti Ciaz Alpha,Mumbai,2017,19416,First,5.0,8.25,False,True,False,True
+Toyota Innova Crysta 2.8 ZX AT,Pune,2016,50296,Second,7.0,19.0,True,False,True,False
+Jeep Compass 2.0 Longitude,Kochi,2018,26101,First,5.0,17.55,True,False,False,True
+Maruti Alto K10 LXI Optional,Pune,2016,7000,First,5.0,3.0,False,True,False,True
+Honda Jazz Exclusive CVT,Mumbai,2018,3000,First,5.0,8.25,False,True,True,False
+Nissan Sunny XE P,Coimbatore,2012,50297,First,5.0,4.69,False,True,False,True
+Toyota Corolla Altis 1.8 GL,Chennai,2009,32000,Second,5.0,4.95,False,True,False,True
+Maruti Alto K10 VXI,Jaipur,2016,51264,First,5.0,3.2,False,True,False,True
+Mercedes-Benz CLA 200 CGI Sport,Delhi,2016,40000,First,5.0,24.5,False,True,True,False
+Hyundai Creta 1.6 SX Automatic Diesel,Kolkata,2018,14000,First,5.0,11.25,True,False,True,False
+Audi RS5 Coupe,Mumbai,2013,23312,First,4.0,40.5,False,True,True,False
+BMW 5 Series 520d Luxury Line,Coimbatore,2014,60280,First,5.0,22.45,True,False,True,False
+Land Rover Range Rover 3.0 Diesel LWB Vogue,Hyderabad,2017,25000,First,5.0,160.0,True,False,True,False
+Maruti Baleno RS Petrol,Coimbatore,2018,26731,First,5.0,8.61,False,True,False,True
+Toyota Camry Hybrid 2.5,Coimbatore,2017,23249,First,5.0,26.11,False,True,True,False
+Hyundai Grand i10 1.2 Kappa Asta,Delhi,2018,10000,First,5.0,6.5,False,True,False,True
+Skoda Superb Style 1.8 TSI AT,Coimbatore,2016,54253,First,5.0,16.81,False,True,True,False
+Maruti Wagon R VXI,Pune,2014,38958,First,5.0,3.41,False,True,False,True
+Datsun redi-GO S,Chennai,2016,26239,First,5.0,2.75,False,True,False,True
+Toyota Fortuner 2.8 2WD MT,Coimbatore,2019,56251,First,7.0,35.82,True,False,False,True
+Honda BR-V i-VTEC S MT,Bangalore,2016,34004,First,7.0,8.02,False,True,False,True
+Maruti Dzire VDI,Kochi,2017,54758,First,5.0,6.67,True,False,False,True
+Toyota Innova Crysta 2.8 ZX AT,Bangalore,2017,53841,First,7.0,20.5,True,False,True,False
+Hyundai Creta 1.6 SX Option,Kochi,2017,47183,Second,5.0,11.31,False,True,False,True
+Datsun redi-GO T Option,Kochi,2018,6279,First,5.0,3.6,False,True,False,True
+Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2017,101065,First,5.0,11.45,True,False,False,True
+Maruti Baleno Delta,Kochi,2017,15134,First,5.0,6.37,False,True,False,True
+Maruti Ertiga VDI,Chennai,2016,86000,Second,7.0,8.2,True,False,False,True
+Honda City i-DTEC SV,Kolkata,2015,39000,First,5.0,5.49,True,False,False,True
+Volkswagen Vento 1.6 Highline,Jaipur,2016,33000,First,5.0,7.7,False,True,False,True
+Hyundai Verna VTVT 1.6 SX,Bangalore,2014,46676,First,5.0,7.75,False,True,False,True
+Maruti Alto K10 LXI,Kochi,2014,51349,First,5.0,2.93,False,True,False,True
+Audi Q3 30 TDI Premium FWD,Coimbatore,2018,22060,First,5.0,32.73,True,False,True,False
+Audi A4 35 TDI Premium Plus,Kochi,2015,13506,First,5.0,21.66,True,False,True,False
+Renault KWID RXT Optional,Mumbai,2016,16000,First,5.0,2.99,False,True,False,True
+Honda Amaze S Petrol,Kolkata,2013,32576,First,5.0,3.15,False,True,False,True
+Datsun redi-GO T Option,Coimbatore,2017,27509,First,5.0,3.31,False,True,False,True
+Skoda Superb Style 1.8 TSI AT,Mumbai,2016,53000,First,5.0,17.85,False,True,True,False
+Toyota Innova Crysta 2.8 ZX AT,Delhi,2016,42000,First,7.0,19.6,True,False,True,False
+Maruti Wagon R VXI AMT,Mumbai,2018,1997,First,5.0,4.45,False,True,True,False
+Maruti Vitara Brezza ZDi Plus Dual Tone,Pune,2016,47300,First,5.0,8.85,True,False,False,True
+Maruti Ertiga VDI,Coimbatore,2014,53817,First,7.0,7.56,True,False,False,True
+Toyota Innova Crysta 2.8 ZX AT,Ahmedabad,2016,42388,First,7.0,18.0,True,False,True,False
+BMW X1 xDrive 20d M Sport,Kolkata,2017,27001,First,5.0,29.0,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Sportz,Coimbatore,2017,38712,First,5.0,5.87,False,True,False,True
+Maruti Swift ZXI Plus,Ahmedabad,2018,2000,First,5.0,7.75,False,True,False,True
+Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,31271,First,8.0,21.42,True,False,False,True
+Skoda Rapid 1.5 TDI Ambition,Mumbai,2012,54500,First,5.0,4.1,True,False,False,True
+Toyota Innova Crysta 2.4 ZX MT,Ahmedabad,2016,54000,First,7.0,16.5,True,False,False,True
+Tata Tiago 1.2 Revotron XZ WO Alloy,Hyderabad,2017,16500,First,5.0,5.0,False,True,False,True
+Honda Amaze V Petrol,Jaipur,2018,6000,First,5.0,6.7,False,True,False,True
+Maruti Wagon R LXI,Mumbai,2010,12000,First,5.0,2.45,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Magna,Kolkata,2018,4500,First,5.0,4.8,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Asta,Kochi,2017,51223,First,5.0,5.66,False,True,False,True
+Ford Mustang V8,Kochi,2018,21290,First,4.0,56.8,False,True,True,False
+Toyota Innova Crysta 2.8 GX AT,Kochi,2019,14076,First,7.0,19.4,True,False,True,False
+Hyundai Grand i10 1.2 Kappa Asta,Hyderabad,2017,22500,First,5.0,5.99,False,True,False,True
+Honda Amaze S Diesel,Kolkata,2013,46500,First,5.0,3.3,True,False,False,True
+Maruti Wagon R VXI,Jaipur,2017,39867,First,5.0,4.5,False,True,False,True
+Skoda Superb Style 2.0 TDI AT,Mumbai,2015,19000,First,5.0,15.5,True,False,True,False
+Volkswagen Vento 1.5 TDI Comfortline,Kolkata,2012,34000,First,5.0,3.4,True,False,False,True
+Hyundai Verna VTVT 1.6 SX Option,Kochi,2016,52378,First,5.0,7.97,False,True,False,True
+Maruti Dzire AMT ZDI Plus,Kochi,2018,64035,First,5.0,8.55,True,False,True,False
+Maruti Eeco 7 Seater Standard,Chennai,2016,55000,First,7.0,3.75,False,True,False,True
+Mitsubishi Pajero Sport 4X4,Coimbatore,2015,53497,First,7.0,16.42,True,False,False,True
+Mercedes-Benz GLE 350d,Chennai,2016,29000,First,5.0,65.0,True,False,True,False
+Maruti Wagon R VXI AMT,Kolkata,2017,17000,First,5.0,3.95,False,True,True,False
+BMW 3 Series 320d,Mumbai,2011,51000,First,5.0,10.5,True,False,True,False
+BMW 5 Series 520d Luxury Line,Coimbatore,2011,51602,First,5.0,17.27,True,False,True,False
+BMW 3 Series Luxury Line,Pune,2016,70000,Second,5.0,27.0,True,False,True,False
+Honda Jazz V,Kochi,2017,36973,First,5.0,6.8,False,True,False,True
+Maruti Wagon R VXI,Mumbai,2014,43628,First,5.0,3.16,False,True,False,True
+Maruti Vitara Brezza ZDi Plus AMT Dual Tone,Chennai,2018,3300,First,5.0,11.5,True,False,True,False
+Maruti Alto K10 LXI,Delhi,2016,35027,First,5.0,3.0,False,True,False,True
+Maruti Vitara Brezza ZDi,Bangalore,2017,45000,First,5.0,9.75,True,False,False,True
+BMW X1 sDrive 20d xLine,Coimbatore,2019,15456,First,5.0,36.64,True,False,True,False
+Hyundai Grand i10 1.2 CRDi Asta,Kochi,2015,81828,First,5.0,5.43,True,False,False,True
+Renault KWID 1.0 RXT Optional,Jaipur,2016,26000,First,5.0,3.0,False,True,False,True
+Honda WRV i-VTEC VX,Hyderabad,2017,15000,First,5.0,8.9,False,True,False,True
+Volkswagen Vento 1.6 Comfortline,Kochi,2012,60818,First,5.0,3.59,False,True,False,True
+Maruti Ertiga VDI,Pune,2016,54161,First,7.0,7.64,True,False,False,True
+Volkswagen Vento 1.6 Comfortline,Kochi,2018,20488,Second,5.0,7.64,False,True,False,True
+Toyota Fortuner 2.8 2WD MT,Coimbatore,2017,72668,First,7.0,28.85,True,False,False,True
+Toyota Etios Cross 1.4L VD,Bangalore,2014,57464,First,5.0,5.75,True,False,False,True
+Toyota Innova Crysta 2.8 ZX AT,Chennai,2016,80000,First,7.0,19.5,True,False,True,False
+Hyundai Xcent 1.2 VTVT E,Pune,2018,40000,First,5.0,5.0,False,True,False,True
+Hyundai Verna VTVT 1.6 SX Option,Kochi,2019,12336,First,5.0,11.88,False,True,False,True
+Nissan Micra Active XV,Pune,2018,24000,First,5.0,4.0,False,True,False,True
+Volkswagen Vento 1.5 TDI Highline,Chennai,2011,121311,First,5.0,2.9,True,False,False,True
+Tata Tiago 1.2 Revotron XT Option,Coimbatore,2019,16698,First,5.0,5.85,False,True,False,True
+Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,Hyderabad,2016,52000,First,5.0,42.0,True,False,True,False
+Hyundai Elite i20 Sportz Plus,Kochi,2017,37460,First,5.0,6.28,False,True,False,True
+Mercedes-Benz S-Class S 350 d,Bangalore,2011,47140,Second,5.0,30.0,True,False,True,False
+Hyundai Creta 1.6 SX Option Diesel,Bangalore,2016,93000,First,5.0,10.8,True,False,False,True
+Volvo V40 D3 R Design,Hyderabad,2015,38000,Second,5.0,24.0,True,False,True,False
+BMW 3 Series Luxury Line,Kochi,2018,21936,First,5.0,37.92,True,False,True,False
+Skoda Superb Style 1.8 TSI AT,Delhi,2013,80000,Second,5.0,7.25,False,True,True,False
+Mahindra Thar CRDe,Coimbatore,2017,28599,First,6.0,9.66,True,False,False,True
+Datsun redi-GO T,Kolkata,2016,15000,First,5.0,2.25,False,True,False,True
+Maruti Alto K10 VXI,Kochi,2015,23876,First,5.0,3.46,False,True,False,True
+BMW 3 Series 320d,Hyderabad,2011,89000,First,5.0,13.95,True,False,True,False
+Maruti Wagon R VXI 1.2,Kolkata,2014,37000,First,5.0,2.8,False,True,False,True
+Audi A4 35 TDI Technology,Hyderabad,2017,14000,First,5.0,43.0,True,False,True,False
+Hyundai Santro D Lite,Chennai,2001,140000,Third,5.0,0.7,False,True,False,True
+Maruti Baleno Alpha,Chennai,2016,16000,First,5.0,6.95,False,True,False,True
+Tata Nexon 1.2 Revotron XZ Plus,Coimbatore,2018,17477,First,5.0,9.62,False,True,False,True
+Maruti Wagon R LXI,Kochi,2014,52431,First,5.0,3.01,False,True,False,True
+Maruti Vitara Brezza ZDi Plus,Kochi,2018,57078,First,5.0,10.19,True,False,False,True
+Maruti Baleno Alpha Diesel,Hyderabad,2017,24000,First,5.0,8.4,True,False,False,True
+Maruti Baleno Alpha CVT,Mumbai,2018,3000,First,5.0,8.85,False,True,True,False
+Honda City i-VTEC VX,Ahmedabad,2017,29000,First,5.0,10.0,False,True,False,True
+Mercedes-Benz GLC 220d 4MATIC Style,Mumbai,2017,24000,First,5.0,46.95,True,False,True,False
+Hyundai Creta 1.6 SX Option Executive,Coimbatore,2018,44383,First,5.0,13.25,False,True,False,True
+Hyundai Creta 1.6 SX,Delhi,2016,69000,First,5.0,9.7,False,True,False,True
+Maruti Dzire AMT VDI,Coimbatore,2018,25082,First,5.0,8.37,True,False,True,False
+Audi A4 35 TDI Premium Plus,Coimbatore,2014,28469,First,5.0,24.37,True,False,True,False
+Ford Aspire Titanium Diesel,Kolkata,2017,60048,First,5.0,6.0,True,False,False,True
+Maruti Dzire AMT ZXI Plus,Coimbatore,2019,8018,First,5.0,8.3,False,True,True,False
+Tata Tiago AMT 1.2 Revotron XZA,Pune,2018,2000,First,5.0,5.0,False,True,True,False
+Hyundai Verna CRDi 1.6 SX Option,Hyderabad,2008,109606,First,5.0,2.9,True,False,False,True
+Honda Amaze V CVT Petrol,Kochi,2019,25717,First,5.0,8.86,False,True,True,False
+Honda Jazz VX,Chennai,2017,8000,First,5.0,7.9,False,True,False,True
+Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2019,24864,First,5.0,16.27,True,False,False,True
+BMW 5 Series 530d M Sport,Hyderabad,2016,27000,First,5.0,48.0,True,False,True,False
+Audi A3 35 TDI Premium Plus,Mumbai,2016,39000,First,5.0,18.9,True,False,True,False
+Volkswagen Polo 1.5 TDI Comfortline,Jaipur,2015,66000,First,5.0,4.91,True,False,False,True
+BMW X3 xDrive 20d xLine,Kochi,2017,36723,First,5.0,32.57,True,False,True,False
+Audi Q7 45 TDI Quattro Technology,Pune,2017,59500,First,7.0,68.0,True,False,True,False
+Honda Jazz VX Diesel,Hyderabad,2017,17151,First,5.0,8.4,True,False,False,True
+Maruti Vitara Brezza LDi,Kochi,2018,32539,First,5.0,8.39,True,False,False,True
+Land Rover Discovery Sport TD4 HSE 7S,Coimbatore,2019,24013,First,7.0,56.14,True,False,True,False
+Jeep Compass 2.0 Sport,Kolkata,2017,27000,First,5.0,15.0,True,False,False,True
+Maruti Vitara Brezza ZDi,Coimbatore,2017,58829,First,5.0,9.05,True,False,False,True
+Maruti Celerio LXI MT,Kolkata,2018,30000,First,5.0,3.75,False,True,False,True
+Maruti Vitara Brezza ZDi,Coimbatore,2017,21789,First,5.0,9.88,True,False,False,True
+Hyundai Elite i20 Asta Option,Coimbatore,2019,21134,First,5.0,8.78,False,True,False,True
+Maruti Dzire VDI,Hyderabad,2013,68434,First,5.0,5.5,True,False,False,True
+Maruti Alto K10 VXI,Pune,2014,17000,First,5.0,2.1,False,True,False,True
+Hyundai Verna CRDi 1.6 SX Option,Mumbai,2013,79225,First,5.0,5.5,True,False,False,True
+Maruti Wagon R VXI,Kochi,2019,31817,First,5.0,5.34,False,True,False,True
+Mercedes-Benz GLE 250d,Hyderabad,2016,50000,First,5.0,49.0,True,False,True,False
+Tata Zest Quadrajet 1.3 75PS XE,Kolkata,2017,45000,First,5.0,3.75,True,False,False,True
+Mercedes-Benz GLE 350d,Bangalore,2016,28541,First,5.0,60.75,True,False,True,False
+Nissan Micra XV CVT,Kolkata,2011,44000,First,5.0,2.65,False,True,True,False
+Tata Zest Revotron 1.2 XT,Coimbatore,2015,27000,First,5.0,5.27,False,True,False,True
+Honda Jazz VX Diesel,Chennai,2016,14980,First,5.0,7.4,True,False,False,True
+Mercedes-Benz CLA 200 CDI Sport,Jaipur,2017,39000,First,5.0,27.0,True,False,True,False
+Toyota Corolla Altis 1.8 GL,Coimbatore,2015,53920,First,5.0,10.77,False,True,False,True
+BMW 5 Series 530d M Sport,Chennai,2010,58000,First,5.0,11.75,True,False,True,False
+Tata Zest Revotron 1.2T XM,Kochi,2015,39208,First,5.0,4.52,False,True,False,True
+Honda City i-VTEC VX,Coimbatore,2013,38622,First,5.0,6.26,False,True,False,True
+Hyundai Verna CRDi 1.6 AT SX Plus,Bangalore,2012,79000,First,5.0,5.25,True,False,True,False
+Renault KWID Climber 1.0 AMT,Coimbatore,2018,38171,Second,5.0,4.99,False,True,True,False
+Renault KWID 1.0 RXT Optional AMT,Kochi,2017,53105,First,5.0,4.41,False,True,True,False
+Mahindra Bolero ZLX,Coimbatore,2017,68557,First,7.0,8.14,True,False,False,True
+Volkswagen Vento 1.5 TDI Highline,Hyderabad,2016,34000,First,5.0,8.45,True,False,False,True
+BMW 3 Series 320d,Bangalore,2012,73000,First,5.0,12.5,True,False,True,False
+Ford EcoSport 1.5 Diesel Trend,Kochi,2017,63423,First,5.0,7.69,True,False,False,True
+Hyundai Creta 1.6 SX Option,Kochi,2018,53322,First,5.0,12.13,False,True,False,True
+Ford EcoSport 1.5 Petrol Titanium,Hyderabad,2017,21800,First,5.0,8.75,False,True,False,True
+Ford Freestyle Titanium Plus Petrol,Jaipur,2018,1001,First,5.0,7.23,False,True,False,True
+Hyundai Elantra 1.6 SX,Pune,2013,170000,First,5.0,7.5,True,False,False,True
+Maruti Vitara Brezza ZDi Plus Dual Tone,Pune,2016,85000,First,5.0,8.9,True,False,False,True
+Toyota Etios Cross 1.4L VD,Jaipur,2014,62322,First,5.0,4.9,True,False,False,True
+Maruti Alto K10 VXI,Kochi,2015,37929,First,5.0,3.69,False,True,False,True
+Tata Tiago 1.2 Revotron XM Option,Chennai,2016,5400,First,5.0,3.98,False,True,False,True
+Volkswagen Ameo 1.2 MPI Highline,Kochi,2017,14576,First,5.0,6.69,False,True,False,True
+Honda BRV i-VTEC V CVT,Mumbai,2017,17000,First,7.0,9.5,False,True,True,False
+Maruti Celerio ZXI Optional AMT,Kochi,2018,12278,First,5.0,5.63,False,True,True,False
+Hyundai Creta 1.6 SX,Coimbatore,2018,17665,First,5.0,11.78,False,True,False,True
+Tata Zest Revotron 1.2T XE,Kolkata,2017,65000,First,5.0,4.8,False,True,False,True
+Volkswagen Vento 1.6 Comfortline,Kolkata,2014,38000,First,5.0,3.49,False,True,False,True
+Volkswagen Polo 1.5 TDI Highline,Hyderabad,2016,29647,First,5.0,6.3,True,False,False,True
+Maruti Baleno RS Petrol,Kochi,2018,43639,First,5.0,8.15,False,True,False,True
+BMW 3 Series Luxury Line,Bangalore,2017,21000,First,5.0,35.0,True,False,True,False
+Maruti Dzire VXI,Pune,2013,74000,First,5.0,4.5,False,True,False,True
+Volkswagen Polo 1.5 TDI Highline,Chennai,2017,25000,First,5.0,6.9,True,False,False,True
+Audi A6 35 TDI Matrix,Chennai,2015,20000,First,5.0,35.5,True,False,True,False
+Hyundai Grand i10 1.2 CRDi Sportz,Kochi,2018,32663,First,5.0,6.28,True,False,False,True
+Tata Bolt Quadrajet XE,Hyderabad,2016,100303,First,5.0,3.7,True,False,False,True
+Maruti Eeco 7 Seater Standard,Mumbai,2014,34670,First,7.0,2.9,False,True,False,True
+Hyundai Grand i10 1.2 CRDi Sportz,Delhi,2015,59261,First,5.0,4.25,True,False,False,True
+BMW 3 Series 320d Luxury Line,Hyderabad,2015,47000,First,5.0,29.5,True,False,True,False
+Ford Ecosport Signature Edition Diesel,Ahmedabad,2018,13000,First,5.0,10.9,True,False,False,True
+Maruti Celerio ZXI MT,Bangalore,2015,48808,First,5.0,4.3,False,True,False,True
+Hyundai i20 Active SX Dual Tone Petrol,Pune,2019,1000,First,5.0,8.6,False,True,False,True
+Volkswagen Ameo 1.5 TDI Highline,Pune,2016,20000,First,5.0,6.75,True,False,False,True
+Volkswagen Polo GT TSI,Kochi,2015,26323,First,5.0,7.4,False,True,True,False
+Mahindra Bolero ZLX,Jaipur,2016,65000,First,7.0,7.21,True,False,False,True
+Hyundai Xcent 1.2 CRDi S,Kolkata,2017,51000,First,5.0,4.2,True,False,False,True
+Toyota Innova Crysta 2.4 GX MT,Hyderabad,2016,73000,First,7.0,16.5,True,False,False,True
+Maruti Swift LDI,Jaipur,2015,39437,First,5.0,5.15,True,False,False,True
+Tata Zest Revotron 1.2T XM,Mumbai,2014,36000,First,5.0,3.7,False,True,False,True
+Hyundai Grand i10 1.2 Kappa Magna,Pune,2010,45252,First,5.0,2.25,False,True,False,True
+Maruti Ertiga VDI,Kochi,2018,51236,First,7.0,8.49,True,False,False,True
+Maruti Dzire AMT VXI,Chennai,2017,42000,First,5.0,5.5,False,True,True,False
+Toyota Corolla Altis 1.8 VL CVT,Coimbatore,2016,82725,First,5.0,11.99,False,True,True,False
+BMW 3 Series Sport,Mumbai,2016,19000,Second,5.0,29.99,True,False,True,False
+Maruti Wagon R VXI AMT,Delhi,2016,30000,First,5.0,4.25,False,True,True,False
+Maruti Vitara Brezza ZDi Plus Dual Tone,Delhi,2016,22000,First,5.0,8.25,True,False,False,True
+Honda WR-V Edge Edition i-VTEC S,Kochi,2019,13913,First,5.0,8.2,False,True,False,True
+Mercedes-Benz GLA Class 200 d Style,Kochi,2016,26212,First,5.0,24.46,True,False,True,False
+Tata Zest Revotron 1.2T XMS,Pune,2014,23500,Second,5.0,3.9,False,True,False,True
+Maruti Wagon R VXI AMT1.2,Mumbai,2015,26000,First,5.0,3.65,False,True,True,False
+Hyundai Xcent 1.2 CRDi S,Kolkata,2016,26000,First,5.0,5.0,True,False,False,True
+Maruti Wagon R VXI,Jaipur,2017,35362,First,5.0,3.85,False,True,False,True
+BMW 3 Series 320d,Bangalore,2010,58000,First,5.0,11.5,True,False,True,False
+Renault KWID Climber 1.0 AMT,Chennai,2018,14000,First,5.0,4.5,False,True,True,False
+Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2016,47392,First,5.0,13.82,True,False,False,True
+Maruti Dzire LDI,Pune,2017,48000,First,5.0,6.0,True,False,False,True
+Renault KWID RXL,Jaipur,2016,26000,First,5.0,2.55,False,True,False,True
+Maruti Alto K10 VXI,Jaipur,2016,35000,First,5.0,3.0,False,True,False,True
+BMW X3 xDrive 20d Luxury Line,Mumbai,2018,1400,First,5.0,61.25,True,False,True,False
+Mini Cooper 3 DOOR S,Kochi,2016,21110,First,4.0,28.95,False,True,True,False
+Toyota Etios Liva 1.2 G,Coimbatore,2015,64005,First,5.0,4.57,False,True,False,True
+Nissan Micra XV CVT,Mumbai,2015,34895,First,5.0,4.6,False,True,True,False
+Toyota Innova Crysta 2.8 GX AT,Kochi,2017,20789,First,7.0,18.36,True,False,True,False
+Land Rover Range Rover Sport SE,Delhi,2014,47000,Second,5.0,64.75,True,False,True,False
+BMW 5 Series 520d Luxury Line,Coimbatore,2016,75637,First,5.0,30.37,True,False,True,False
+Renault KWID RXT Optional,Kochi,2019,6568,First,5.0,5.09,False,True,False,True
+BMW 3 Series 320d Luxury Line,Kochi,2016,62404,First,5.0,21.33,True,False,True,False
+BMW 3 Series Luxury Line,Coimbatore,2017,34232,First,5.0,35.84,True,False,True,False
+Honda CR-V Petrol 2WD,Chennai,2004,135000,Third,5.0,3.0,False,True,True,False
+Renault Duster 110PS Diesel RxZ AWD,Chennai,2012,80000,First,5.0,6.75,True,False,False,True
+Toyota Fortuner 2.8 2WD AT,Coimbatore,2019,28069,First,7.0,30.85,True,False,True,False
+Nissan Sunny XV D,Chennai,2012,70000,Second,5.0,4.0,True,False,False,True
+Maruti Wagon R ZXI AMT 1.2,Mumbai,2019,600,First,5.0,6.25,False,True,True,False
+Tata Tigor XE Diesel,Ahmedabad,2017,16235,First,5.0,5.5,True,False,False,True
+Skoda Superb Style 1.8 TSI AT,Kochi,2017,73641,First,5.0,17.08,False,True,True,False
+Hyundai Verna VTVT 1.6 AT SX Plus,Mumbai,2012,75059,First,5.0,4.25,False,True,True,False
+Toyota Etios 1.4 VXD,Pune,2018,3000,First,5.0,7.9,True,False,False,True
+Volkswagen Polo 1.5 TDI Highline,Coimbatore,2014,52951,First,5.0,5.65,True,False,False,True
+Maruti Eeco 7 Seater Standard,Delhi,2016,126000,First,7.0,2.2,False,True,False,True
+Volkswagen Vento 1.5 TDI Highline,Hyderabad,2017,28000,First,5.0,10.0,True,False,False,True
+Hyundai Grand i10 1.2 Kappa Magna,Delhi,2017,46000,First,5.0,4.75,False,True,False,True
+Maruti Baleno Zeta,Coimbatore,2018,33150,First,5.0,7.39,False,True,False,True
+Honda City i-VTEC VX,Ahmedabad,2012,34000,First,5.0,5.75,False,True,False,True
+Honda BRV i-VTEC V CVT,Mumbai,2017,16503,First,7.0,9.5,False,True,True,False
+Honda City i-VTEC CVT V,Kochi,2019,22321,First,5.0,11.66,False,True,True,False
+Mahindra KUV 100 G80 K8 Dual Tone,Delhi,2018,42000,First,6.0,5.5,False,True,False,True
+Honda City i-VTEC V,Kochi,2018,11732,First,5.0,10.07,False,True,False,True
+Toyota Innova Crysta 2.4 VX MT,Kolkata,2017,31000,First,7.0,16.95,True,False,False,True
+Volvo S60 D4 Momentum,Hyderabad,2014,51000,First,5.0,21.5,True,False,True,False
+Honda Brio 1.2 S Option MT,Delhi,2012,40315,First,5.0,2.75,False,True,False,True
+Tata Tiago 1.2 Revotron XZ,Coimbatore,2019,20712,First,5.0,6.94,False,True,False,True
+Nissan Terrano XL D Option,Kochi,2015,58817,First,5.0,6.25,True,False,False,True
+Tata Tiago 1.2 Revotron XZ,Hyderabad,2017,22000,First,5.0,4.8,False,True,False,True
+Renault KWID RXL,Kochi,2019,7858,First,5.0,3.8,False,True,False,True
+Honda Amaze VX Petrol,Mumbai,2014,21000,First,5.0,4.75,False,True,False,True
+Volkswagen Vento 1.5 TDI Highline AT,Pune,2016,19000,First,5.0,10.0,True,False,True,False
+Skoda Rapid 1.6 MPI Ambition,Coimbatore,2019,21214,First,5.0,9.66,False,True,False,True
+Maruti Celerio VXI AMT,Kolkata,2016,30000,First,5.0,3.8,False,True,True,False
+Renault KWID RXT Optional,Kochi,2017,21954,First,5.0,3.7,False,True,False,True
+Nissan Micra XV CVT,Coimbatore,2017,54387,First,5.0,5.85,False,True,True,False
+Renault KWID RXT Optional,Mumbai,2018,1617,First,5.0,4.29,False,True,False,True
+Honda City i-DTEC SV,Hyderabad,2015,82000,First,5.0,8.0,True,False,False,True
+Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2016,28147,First,5.0,5.07,False,True,False,True
+Renault Duster 110PS Diesel RxZ,Bangalore,2014,70000,First,5.0,8.25,True,False,False,True
+Skoda Superb L&K 2.0 TDI AT,Mumbai,2017,35000,First,5.0,25.75,True,False,True,False
+Maruti Vitara Brezza ZDi Plus Dual Tone,Kochi,2017,21248,First,5.0,9.44,True,False,False,True
+Mercedes-Benz C-Class Progressive C 220d,Ahmedabad,2019,4000,First,5.0,35.0,True,False,True,False
+Mitsubishi Pajero Sport 4X4,Jaipur,2014,70000,Second,7.0,11.85,True,False,False,True
+Hyundai Creta 1.6 SX,Hyderabad,2018,9900,First,5.0,13.2,False,True,False,True
+Tata Zest Quadrajet 1.3 75PS XE,Hyderabad,2016,125000,First,5.0,4.6,True,False,False,True
+Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,34686,First,5.0,11.86,True,False,True,False
+Skoda Superb Style 2.0 TDI AT,Mumbai,2017,42000,First,5.0,22.99,True,False,True,False
+Mahindra NuvoSport N6,Coimbatore,2018,37323,Second,7.0,7.29,True,False,False,True
+Maruti Dzire LDI,Pune,2018,27000,First,5.0,5.9,True,False,False,True
+Renault KWID RXL,Pune,2018,1000,First,5.0,3.4,False,True,False,True
+Maruti Ertiga VXI AT Petrol,Mumbai,2017,28000,First,7.0,8.0,False,True,True,False
+Toyota Corolla Altis 1.8 G CVT,Delhi,2010,109703,Second,5.0,4.0,False,True,True,False
+Hyundai Verna VTVT 1.6 AT SX Option,Mumbai,2018,8000,First,5.0,12.85,False,True,True,False
+Mercedes-Benz GLA Class 200 Sport,Kochi,2018,17773,First,5.0,26.76,False,True,True,False
+Volkswagen Polo 1.5 TDI Highline,Hyderabad,2013,65000,Second,5.0,3.5,True,False,False,True
+Volkswagen Ameo 1.2 MPI Highline,Ahmedabad,2016,34005,First,5.0,5.75,False,True,False,True
+Maruti Baleno Alpha,Mumbai,2017,6000,First,5.0,7.5,False,True,False,True
+Tata Hexa XTA,Jaipur,2016,39000,First,7.0,13.5,True,False,True,False
+Tata Tiago 1.2 Revotron XT,Kochi,2017,15386,First,5.0,5.11,False,True,False,True
+Audi A4 35 TDI Premium Plus,Coimbatore,2013,58629,Second,5.0,16.52,True,False,True,False
+Tata Bolt Revotron XT,Chennai,2016,10000,First,5.0,4.0,False,True,False,True
+Volkswagen Vento 1.6 Highline,Mumbai,2011,38000,First,5.0,3.25,False,True,False,True
+Maruti Vitara Brezza VDi,Pune,2016,37208,First,5.0,7.43,True,False,False,True
+Honda Brio 1.2 VX MT,Delhi,2013,33746,First,5.0,3.2,False,True,False,True
+Maruti Swift VDI,Delhi,2014,27365,First,5.0,4.75,True,False,False,True
